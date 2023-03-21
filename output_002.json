@@ -1,0 +1,4762 @@
+{
+    "node": [
+        {
+            "name": "ALK101_ITXC2",
+            "x": 50,
+            "y": 456,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 1.0)"
+            },
+            "value": 0.0,
+            "category": "C2"
+        },
+        {
+            "name": "DIF113_DIFC2",
+            "x": 175,
+            "y": 807,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.908507717072247)"
+            },
+            "value": 0.08,
+            "category": "C2"
+        },
+        {
+            "name": "SEL103_SELC2",
+            "x": 300,
+            "y": 726,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.620962360080082)"
+            },
+            "value": 0.01,
+            "category": "C2"
+        },
+        {
+            "name": "INX102_INXC2",
+            "x": 425,
+            "y": 424,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.16921951138385805)"
+            },
+            "value": 0.12,
+            "category": "C2"
+        },
+        {
+            "name": "DIF102_ANLC2",
+            "x": 550,
+            "y": 358,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 1.0)"
+            },
+            "value": 0.12,
+            "category": "C2"
+        },
+        {
+            "name": "ALD103_ALDC2",
+            "x": 675,
+            "y": 726,
+            "itemStyle": {
+                "color": "rgb(0, 255, 0, 0.3346373885243143)"
+            },
+            "value": 0.01,
+            "category": "C2"
+        },
+        {
+            "name": "CVD128_CAPC2",
+            "x": 800,
+            "y": 840,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.3636363636363636)"
+            },
+            "value": 0.65,
+            "category": "C2"
+        },
+        {
+            "name": "CVD105_CVDC2",
+            "x": 925,
+            "y": 440,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.9856967715570086)"
+            },
+            "value": 0.75,
+            "category": "C2"
+        },
+        {
+            "name": "LAS102_LASC2",
+            "x": 1050,
+            "y": 564,
+            "itemStyle": {
+                "color": "rgb(0, 255, 255, 0.8132721850487432)"
+            },
+            "value": 0.0,
+            "category": "C2"
+        },
+        {
+            "name": "PRT108A_PRTC2",
+            "x": 1175,
+            "y": 690,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, 0.11369134010643445)"
+            },
+            "value": 0.03,
+            "category": "C2"
+        },
+        {
+            "name": "LIR106_LIRC2",
+            "x": 1300,
+            "y": 700,
+            "itemStyle": {
+                "color": "rgb(255, 0, 255, 0.4777365170909141)"
+            },
+            "value": 0.1,
+            "category": "C2"
+        },
+        {
+            "name": "INX101_INXC2",
+            "x": 425,
+            "y": 332,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.07488098119906399)"
+            },
+            "value": 0.05,
+            "category": "C2"
+        },
+        {
+            "name": "DIF104_ANLC2",
+            "x": 550,
+            "y": 476,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.4393022294071206)"
+            },
+            "value": 0.05,
+            "category": "C2"
+        },
+        {
+            "name": "CVD119_CAPC2",
+            "x": 800,
+            "y": 390,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.6963249516441006)"
+            },
+            "value": 0.61,
+            "category": "C2"
+        },
+        {
+            "name": "PRT104_PRTC2",
+            "x": 1175,
+            "y": 440,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, 0.19133644133644134)"
+            },
+            "value": 0.05,
+            "category": "C2"
+        },
+        {
+            "name": "LIR102_LIRC2",
+            "x": 1300,
+            "y": 332,
+            "itemStyle": {
+                "color": "rgb(255, 0, 255, 1.0)"
+            },
+            "value": 0.12,
+            "category": "C2"
+        },
+        {
+            "name": "ALK102_ITXC2",
+            "x": 50,
+            "y": 672,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.7620469839373548)"
+            },
+            "value": 0.0,
+            "category": "C2"
+        },
+        {
+            "name": "DIF107_DIFC2",
+            "x": 175,
+            "y": 483,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.7725131326607187)"
+            },
+            "value": 0.06,
+            "category": "C2"
+        },
+        {
+            "name": "SEL102_SELC2",
+            "x": 300,
+            "y": 564,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 1.0)"
+            },
+            "value": 0.01,
+            "category": "C2"
+        },
+        {
+            "name": "DIF110_ANLC2",
+            "x": 550,
+            "y": 535,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.6496851385390429)"
+            },
+            "value": 0.11,
+            "category": "C2"
+        },
+        {
+            "name": "ALD101_ALDC2",
+            "x": 675,
+            "y": 402,
+            "itemStyle": {
+                "color": "rgb(0, 255, 0, 1.0)"
+            },
+            "value": 0.12,
+            "category": "C2"
+        },
+        {
+            "name": "CVD118_CAPC2",
+            "x": 800,
+            "y": 340,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.41459347695591275)"
+            },
+            "value": 0.62,
+            "category": "C2"
+        },
+        {
+            "name": "CVD115_CVDC2",
+            "x": 925,
+            "y": 790,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.5031160604822231)"
+            },
+            "value": 0.77,
+            "category": "C2"
+        },
+        {
+            "name": "LAS101_LASC2",
+            "x": 1050,
+            "y": 402,
+            "itemStyle": {
+                "color": "rgb(0, 255, 255, -0.8742432105172117)"
+            },
+            "value": -0.01,
+            "category": "C2"
+        },
+        {
+            "name": "PRT103_PRTC2",
+            "x": 1175,
+            "y": 390,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, 0.13477975016436555)"
+            },
+            "value": 0.05,
+            "category": "C2"
+        },
+        {
+            "name": "INX104_INXC2",
+            "x": 425,
+            "y": 608,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.04877981940505063)"
+            },
+            "value": 0.03,
+            "category": "C2"
+        },
+        {
+            "name": "DIF117_ANLC2",
+            "x": 550,
+            "y": 830,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.45153871427006903)"
+            },
+            "value": 0.05,
+            "category": "C2"
+        },
+        {
+            "name": "ALD102_ALDC2",
+            "x": 675,
+            "y": 564,
+            "itemStyle": {
+                "color": "rgb(0, 255, 0, -0.033991731740927886)"
+            },
+            "value": -0.0,
+            "category": "C2"
+        },
+        {
+            "name": "CVD123_CAPC2",
+            "x": 800,
+            "y": 590,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.582232271773776)"
+            },
+            "value": 0.35,
+            "category": "C2"
+        },
+        {
+            "name": "CVD102_CVDC2",
+            "x": 925,
+            "y": 290,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.7008731448164502)"
+            },
+            "value": 0.31,
+            "category": "C2"
+        },
+        {
+            "name": "LAS103_LASC2",
+            "x": 1050,
+            "y": 726,
+            "itemStyle": {
+                "color": "rgb(0, 255, 255, 1.0)"
+            },
+            "value": 0.0,
+            "category": "C2"
+        },
+        {
+            "name": "DIF105_DIFC2",
+            "x": 175,
+            "y": 321,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.37349472377405346)"
+            },
+            "value": 0.03,
+            "category": "C2"
+        },
+        {
+            "name": "CVD126_CAPC2",
+            "x": 800,
+            "y": 740,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.6018808777429466)"
+            },
+            "value": 0.45,
+            "category": "C2"
+        },
+        {
+            "name": "CVD106_CVDC2",
+            "x": 925,
+            "y": 490,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.36296668867163356)"
+            },
+            "value": 0.34,
+            "category": "C2"
+        },
+        {
+            "name": "PRT107B_PRTC2",
+            "x": 1175,
+            "y": 640,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, 0.012108262108262107)"
+            },
+            "value": 0.0,
+            "category": "C2"
+        },
+        {
+            "name": "LIR104_LIRC2",
+            "x": 1300,
+            "y": 516,
+            "itemStyle": {
+                "color": "rgb(255, 0, 255, 0.1270853166508001)"
+            },
+            "value": 0.02,
+            "category": "C2"
+        },
+        {
+            "name": "INX103_INXC2",
+            "x": 425,
+            "y": 516,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.08533042846768336)"
+            },
+            "value": 0.06,
+            "category": "C2"
+        },
+        {
+            "name": "CVD124_CAPC2",
+            "x": 800,
+            "y": 640,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.5781607174257077)"
+            },
+            "value": 0.38,
+            "category": "C2"
+        },
+        {
+            "name": "PRT101_PRTC2",
+            "x": 1175,
+            "y": 290,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, 0.08993494068120934)"
+            },
+            "value": 0.02,
+            "category": "C2"
+        },
+        {
+            "name": "LIR103_LIRC2",
+            "x": 1300,
+            "y": 424,
+            "itemStyle": {
+                "color": "rgb(255, 0, 255, 0.013939888480892152)"
+            },
+            "value": 0.01,
+            "category": "C2"
+        },
+        {
+            "name": "CVD108_CVDC2",
+            "x": 925,
+            "y": 590,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.59991826726604)"
+            },
+            "value": 0.33,
+            "category": "C2"
+        },
+        {
+            "name": "PRT106_PRTC2",
+            "x": 1175,
+            "y": 540,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, 0.16941391941391942)"
+            },
+            "value": 0.05,
+            "category": "C2"
+        },
+        {
+            "name": "DIF115_ANLC2",
+            "x": 550,
+            "y": 712,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.815881012354564)"
+            },
+            "value": 0.09,
+            "category": "C2"
+        },
+        {
+            "name": "CVD117_CAPC2",
+            "x": 800,
+            "y": 290,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.7639679469466703)"
+            },
+            "value": 0.94,
+            "category": "C2"
+        },
+        {
+            "name": "CVD114_CVDC2",
+            "x": 925,
+            "y": 740,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.4963813491174183)"
+            },
+            "value": 0.58,
+            "category": "C2"
+        },
+        {
+            "name": "DIF106_DIFC2",
+            "x": 175,
+            "y": 402,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.49678647352548577)"
+            },
+            "value": 0.05,
+            "category": "C2"
+        },
+        {
+            "name": "CVD103_CVDC2",
+            "x": 925,
+            "y": 340,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 1.0)"
+            },
+            "value": 0.55,
+            "category": "C2"
+        },
+        {
+            "name": "PRT107A_PRTC2",
+            "x": 1175,
+            "y": 590,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, -0.04727564102564103)"
+            },
+            "value": -0.01,
+            "category": "C2"
+        },
+        {
+            "name": "DIF103_ANLC2",
+            "x": 550,
+            "y": 417,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.6153292551277438)"
+            },
+            "value": 0.07,
+            "category": "C2"
+        },
+        {
+            "name": "PRT105_PRTC2",
+            "x": 1175,
+            "y": 490,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, 1.0)"
+            },
+            "value": 0.31,
+            "category": "C2"
+        },
+        {
+            "name": "LIR107_LIRC2",
+            "x": 1300,
+            "y": 792,
+            "itemStyle": {
+                "color": "rgb(255, 0, 255, 0.16226030191758464)"
+            },
+            "value": 0.04,
+            "category": "C2"
+        },
+        {
+            "name": "DIF109_DIFC2",
+            "x": 175,
+            "y": 645,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.7106685889349433)"
+            },
+            "value": 0.25,
+            "category": "C2"
+        },
+        {
+            "name": "SEL101_SELC2",
+            "x": 300,
+            "y": 402,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.7382099576580523)"
+            },
+            "value": 0.06,
+            "category": "C2"
+        },
+        {
+            "name": "INX105_INXC2",
+            "x": 425,
+            "y": 700,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.15043054258740535)"
+            },
+            "value": 0.22,
+            "category": "C2"
+        },
+        {
+            "name": "DIF111_ANLC2",
+            "x": 550,
+            "y": 594,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.9922753988245173)"
+            },
+            "value": 0.15,
+            "category": "C2"
+        },
+        {
+            "name": "CVD125_CAPC2",
+            "x": 800,
+            "y": 690,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.4579221715896797)"
+            },
+            "value": 0.33,
+            "category": "C2"
+        },
+        {
+            "name": "CVD104_CVDC2",
+            "x": 925,
+            "y": 390,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.490029808408856)"
+            },
+            "value": 0.26,
+            "category": "C2"
+        },
+        {
+            "name": "DIF116_ANLC2",
+            "x": 550,
+            "y": 771,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.5144836272040303)"
+            },
+            "value": 0.04,
+            "category": "C2"
+        },
+        {
+            "name": "DIF112_DIFC2",
+            "x": 175,
+            "y": 726,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.668640040023347)"
+            },
+            "value": 0.11,
+            "category": "C2"
+        },
+        {
+            "name": "CVD120_CAPC2",
+            "x": 800,
+            "y": 440,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.7911692122990728)"
+            },
+            "value": 0.59,
+            "category": "C2"
+        },
+        {
+            "name": "CVD112_CVDC2",
+            "x": 925,
+            "y": 690,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.6275602778912955)"
+            },
+            "value": 0.92,
+            "category": "C2"
+        },
+        {
+            "name": "CVD101_CVDC2",
+            "x": 925,
+            "y": 240,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.928328176387024)"
+            },
+            "value": 0.54,
+            "category": "C2"
+        },
+        {
+            "name": "CVD109_CVDC2",
+            "x": 925,
+            "y": 640,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.9176604624091343)"
+            },
+            "value": 1.02,
+            "category": "C2"
+        },
+        {
+            "name": "CVD116_CAPC2",
+            "x": 800,
+            "y": 240,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.5019342359767891)"
+            },
+            "value": 1.35,
+            "category": "C2"
+        },
+        {
+            "name": "DIF108_DIFC2",
+            "x": 175,
+            "y": 564,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 1.0)"
+            },
+            "value": 0.33,
+            "category": "C2"
+        },
+        {
+            "name": "PRT108B_PRTC2",
+            "x": 1175,
+            "y": 740,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, 0.06701631701631701)"
+            },
+            "value": 0.02,
+            "category": "C2"
+        },
+        {
+            "name": "CVD122_CAPC2",
+            "x": 800,
+            "y": 540,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.6113231219614198)"
+            },
+            "value": 0.36,
+            "category": "C2"
+        },
+        {
+            "name": "DIF114_ANLC2",
+            "x": 550,
+            "y": 653,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.40864173609765553)"
+            },
+            "value": 0.04,
+            "category": "C2"
+        },
+        {
+            "name": "CVD107_CVDC2",
+            "x": 925,
+            "y": 540,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.5290176431710283)"
+            },
+            "value": 0.24,
+            "category": "C2"
+        },
+        {
+            "name": "CVD121_CAPC2",
+            "x": 800,
+            "y": 490,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 0.5910472506217187)"
+            },
+            "value": 0.45,
+            "category": "C2"
+        },
+        {
+            "name": "DIF101_ANLC2",
+            "x": 550,
+            "y": 299,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.7086804882774657)"
+            },
+            "value": 0.06,
+            "category": "C2"
+        },
+        {
+            "name": "PRT102_PRTC2",
+            "x": 1175,
+            "y": 340,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, -0.9176788124156545)"
+            },
+            "value": -0.25,
+            "category": "C2"
+        },
+        {
+            "name": "PRT109_PRTC2",
+            "x": 1175,
+            "y": 790,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, 0.15109890109890112)"
+            },
+            "value": 0.17,
+            "category": "C2"
+        },
+        {
+            "name": "CVD127_CAPC2",
+            "x": 800,
+            "y": 790,
+            "itemStyle": {
+                "color": "rgb(135, 206, 250, 1.0)"
+            },
+            "value": 1.2,
+            "category": "C2"
+        },
+        {
+            "name": "INX107_INXC2",
+            "x": 425,
+            "y": 792,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 1.0)"
+            },
+            "value": 18.36,
+            "category": "C2"
+        },
+        {
+            "name": "CVD116_CVDC2",
+            "x": 925,
+            "y": 840,
+            "itemStyle": {
+                "color": "rgb(0, 191, 225, 0.9765699495981474)"
+            },
+            "value": 11.89,
+            "category": "C2"
+        },
+        {
+            "name": "PRT110_PRTC2",
+            "x": 1175,
+            "y": 840,
+            "itemStyle": {
+                "color": "rgb(160, 32, 240, -0.23931623931623933)"
+            },
+            "value": -0.25,
+            "category": "C2"
+        },
+        {
+            "name": "LIR105_LIRC2",
+            "x": 1300,
+            "y": 608,
+            "itemStyle": {
+                "color": "rgb(255, 0, 255, 0.0)"
+            },
+            "value": 0.0,
+            "category": "C2"
+        }
+    ],
+    "link": [
+        {
+            "source": "ALK101_ITXC2",
+            "target": "DIF113_DIFC2",
+            "value": 62,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 12.870967741935484
+                }
+            }
+        },
+        {
+            "source": "DIF113_DIFC2",
+            "target": "SEL103_SELC2",
+            "value": 110,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 19.064516129032256
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC2",
+            "target": "INX102_INXC2",
+            "value": 97,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 17.387096774193548
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC2",
+            "target": "DIF102_ANLC2",
+            "value": 24,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.967741935483871
+                }
+            }
+        },
+        {
+            "source": "DIF102_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 46,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.806451612903226
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD128_CAPC2",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.67741935483871
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD105_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 30,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.741935483870968
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT108A_PRTC2",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.193548387096774
+                }
+            }
+        },
+        {
+            "source": "PRT108A_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 40,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.032258064516128
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC2",
+            "target": "INX101_INXC2",
+            "value": 82,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 15.451612903225806
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC2",
+            "target": "DIF104_ANLC2",
+            "value": 29,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.612903225806452
+                }
+            }
+        },
+        {
+            "source": "DIF104_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 60,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 12.612903225806452
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD119_CAPC2",
+            "value": 42,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.290322580645162
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT104_PRTC2",
+            "value": 36,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.516129032258064
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC2",
+            "target": "LIR102_LIRC2",
+            "value": 42,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.290322580645162
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC2",
+            "target": "DIF107_DIFC2",
+            "value": 92,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 16.741935483870968
+                }
+            }
+        },
+        {
+            "source": "DIF107_DIFC2",
+            "target": "SEL102_SELC2",
+            "value": 132,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 21.903225806451616
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC2",
+            "target": "INX101_INXC2",
+            "value": 53,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 11.70967741935484
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC2",
+            "target": "DIF110_ANLC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF110_ANLC2",
+            "target": "ALD101_ALDC2",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.064516129032258
+                }
+            }
+        },
+        {
+            "source": "ALD101_ALDC2",
+            "target": "CVD118_CAPC2",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.806451612903226
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC2",
+            "target": "CVD115_CVDC2",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.67741935483871
+                }
+            }
+        },
+        {
+            "source": "CVD115_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 24,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.967741935483871
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT103_PRTC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "PRT103_PRTC2",
+            "target": "LIR102_LIRC2",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.0
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC2",
+            "target": "INX104_INXC2",
+            "value": 156,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 25
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC2",
+            "target": "DIF117_ANLC2",
+            "value": 51,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 11.451612903225806
+                }
+            }
+        },
+        {
+            "source": "DIF117_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 67,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 13.516129032258064
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD123_CAPC2",
+            "value": 65,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 13.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 26,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.225806451612904
+                }
+            }
+        },
+        {
+            "source": "CVD102_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 51,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 11.451612903225806
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT108A_PRTC2",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.580645161290322
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC2",
+            "target": "DIF105_DIFC2",
+            "value": 66,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 13.387096774193548
+                }
+            }
+        },
+        {
+            "source": "DIF105_DIFC2",
+            "target": "SEL103_SELC2",
+            "value": 74,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 14.419354838709676
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC2",
+            "target": "DIF102_ANLC2",
+            "value": 31,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.870967741935484
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD126_CAPC2",
+            "value": 53,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 11.70967741935484
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD106_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.451612903225806
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT107B_PRTC2",
+            "value": 45,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.67741935483871
+                }
+            }
+        },
+        {
+            "source": "PRT107B_PRTC2",
+            "target": "LIR104_LIRC2",
+            "value": 87,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 16.096774193548384
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC2",
+            "target": "DIF107_DIFC2",
+            "value": 42,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.290322580645162
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC2",
+            "target": "INX103_INXC2",
+            "value": 131,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 21.774193548387096
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF117_ANLC2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.935483870967742
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD124_CAPC2",
+            "value": 61,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 12.741935483870968
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.35483870967742
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT101_PRTC2",
+            "value": 26,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.225806451612904
+                }
+            }
+        },
+        {
+            "source": "PRT101_PRTC2",
+            "target": "LIR103_LIRC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.451612903225806
+                }
+            }
+        },
+        {
+            "source": "CVD108_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 41,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.161290322580644
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT106_PRTC2",
+            "value": 33,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.129032258064516
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC2",
+            "target": "LIR102_LIRC2",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.451612903225806
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC2",
+            "target": "DIF115_ANLC2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.935483870967742
+                }
+            }
+        },
+        {
+            "source": "DIF115_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 51,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 11.451612903225806
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD117_CAPC2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.935483870967742
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD114_CVDC2",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.67741935483871
+                }
+            }
+        },
+        {
+            "source": "CVD114_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 31,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.870967741935484
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT107B_PRTC2",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.548387096774194
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC2",
+            "target": "DIF106_DIFC2",
+            "value": 66,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 13.387096774193548
+                }
+            }
+        },
+        {
+            "source": "DIF106_DIFC2",
+            "target": "SEL102_SELC2",
+            "value": 111,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 19.193548387096776
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF115_ANLC2",
+            "value": 41,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.161290322580644
+                }
+            }
+        },
+        {
+            "source": "DIF115_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.419354838709678
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD103_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 30,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.741935483870968
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT107A_PRTC2",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.838709677419355
+                }
+            }
+        },
+        {
+            "source": "PRT107A_PRTC2",
+            "target": "LIR104_LIRC2",
+            "value": 74,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 14.419354838709676
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC2",
+            "target": "DIF105_DIFC2",
+            "value": 69,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 13.774193548387096
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC2",
+            "target": "DIF103_ANLC2",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.838709677419355
+                }
+            }
+        },
+        {
+            "source": "DIF103_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 51,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 11.451612903225806
+                }
+            }
+        },
+        {
+            "source": "CVD108_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 25,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.096774193548388
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT105_PRTC2",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.580645161290322
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.548387096774194
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC2",
+            "target": "DIF109_DIFC2",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.838709677419355
+                }
+            }
+        },
+        {
+            "source": "DIF109_DIFC2",
+            "target": "SEL101_SELC2",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.709677419354839
+                }
+            }
+        },
+        {
+            "source": "SEL101_SELC2",
+            "target": "INX105_INXC2",
+            "value": 45,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.67741935483871
+                }
+            }
+        },
+        {
+            "source": "INX105_INXC2",
+            "target": "DIF111_ANLC2",
+            "value": 33,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.129032258064516
+                }
+            }
+        },
+        {
+            "source": "DIF111_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD118_CAPC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT108A_PRTC2",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.67741935483871
+                }
+            }
+        },
+        {
+            "source": "DIF105_DIFC2",
+            "target": "SEL102_SELC2",
+            "value": 61,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 12.741935483870968
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC2",
+            "target": "INX102_INXC2",
+            "value": 34,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.258064516129032
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC2",
+            "target": "DIF110_ANLC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "DIF110_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.935483870967742
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD125_CAPC2",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.548387096774194
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "CVD104_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 34,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.258064516129032
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC2",
+            "target": "DIF116_ANLC2",
+            "value": 69,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 13.774193548387096
+                }
+            }
+        },
+        {
+            "source": "DIF116_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 79,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 15.064516129032256
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "CVD103_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 33,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.129032258064516
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT104_PRTC2",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.064516129032258
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC2",
+            "target": "DIF112_DIFC2",
+            "value": 36,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.516129032258064
+                }
+            }
+        },
+        {
+            "source": "DIF112_DIFC2",
+            "target": "SEL102_SELC2",
+            "value": 67,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 13.516129032258064
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC2",
+            "target": "DIF103_ANLC2",
+            "value": 39,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.903225806451612
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD120_CAPC2",
+            "value": 47,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.935483870967742
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD112_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.193548387096774
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.419354838709678
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC2",
+            "target": "DIF112_DIFC2",
+            "value": 31,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.870967741935484
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD120_CAPC2",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.161290322580645
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD101_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD101_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 38,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.774193548387096
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT103_PRTC2",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.193548387096774
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD109_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.064516129032258
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT106_PRTC2",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.193548387096774
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC2",
+            "target": "INX105_INXC2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.935483870967742
+                }
+            }
+        },
+        {
+            "source": "INX105_INXC2",
+            "target": "DIF110_ANLC2",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.35483870967742
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "CVD104_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 31,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.870967741935484
+                }
+            }
+        },
+        {
+            "source": "PRT101_PRTC2",
+            "target": "LIR102_LIRC2",
+            "value": 54,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 11.838709677419354
+                }
+            }
+        },
+        {
+            "source": "DIF110_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD109_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.806451612903226
+                }
+            }
+        },
+        {
+            "source": "DIF111_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.064516129032258
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD116_CAPC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC2",
+            "target": "DIF108_DIFC2",
+            "value": 26,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.225806451612904
+                }
+            }
+        },
+        {
+            "source": "DIF108_DIFC2",
+            "target": "SEL101_SELC2",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.838709677419355
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT108B_PRTC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "PRT108B_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 24,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.967741935483871
+                }
+            }
+        },
+        {
+            "source": "DIF103_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.419354838709678
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "CVD105_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.935483870967742
+                }
+            }
+        },
+        {
+            "source": "PRT107B_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC2",
+            "target": "DIF106_DIFC2",
+            "value": 47,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.935483870967742
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD122_CAPC2",
+            "value": 60,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 12.612903225806452
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "DIF113_DIFC2",
+            "target": "SEL102_SELC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC2",
+            "target": "DIF114_ANLC2",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.419354838709678
+                }
+            }
+        },
+        {
+            "source": "DIF114_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.451612903225806
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.806451612903226
+                }
+            }
+        },
+        {
+            "source": "CVD107_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 48,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 11.064516129032258
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT101_PRTC2",
+            "value": 37,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.64516129032258
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT107A_PRTC2",
+            "value": 47,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.935483870967742
+                }
+            }
+        },
+        {
+            "source": "ALD101_ALDC2",
+            "target": "CVD117_CAPC2",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.419354838709678
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD115_CVDC2",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.032258064516129
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT104_PRTC2",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.548387096774194
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.67741935483871
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD125_CAPC2",
+            "value": 46,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.806451612903226
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD102_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 30,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.741935483870968
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC2",
+            "target": "CVD101_CVDC2",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.838709677419355
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF114_ANLC2",
+            "value": 49,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 11.193548387096774
+                }
+            }
+        },
+        {
+            "source": "DIF114_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 45,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.67741935483871
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD121_CAPC2",
+            "value": 42,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.290322580645162
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.67741935483871
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC2",
+            "target": "DIF104_ANLC2",
+            "value": 36,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.516129032258064
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.032258064516129
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT105_PRTC2",
+            "value": 26,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.225806451612904
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC2",
+            "target": "LIR103_LIRC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.064516129032258
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT108B_PRTC2",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.064516129032258
+                }
+            }
+        },
+        {
+            "source": "PRT108B_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 19,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.32258064516129
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC2",
+            "target": "CVD101_CVDC2",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.419354838709678
+                }
+            }
+        },
+        {
+            "source": "CVD101_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.580645161290322
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT108B_PRTC2",
+            "value": 19,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.32258064516129
+                }
+            }
+        },
+        {
+            "source": "PRT108B_PRTC2",
+            "target": "LIR102_LIRC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC2",
+            "target": "DIF101_ANLC2",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.0
+                }
+            }
+        },
+        {
+            "source": "DIF101_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 72,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 14.161290322580646
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.580645161290322
+                }
+            }
+        },
+        {
+            "source": "CVD107_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 29,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.612903225806452
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT102_PRTC2",
+            "value": 25,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.096774193548388
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC2",
+            "target": "LIR102_LIRC2",
+            "value": 39,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.903225806451612
+                }
+            }
+        },
+        {
+            "source": "DIF111_ANLC2",
+            "target": "ALD101_ALDC2",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.451612903225806
+                }
+            }
+        },
+        {
+            "source": "ALD101_ALDC2",
+            "target": "CVD116_CAPC2",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.032258064516129
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "PRT108A_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.548387096774194
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC2",
+            "target": "LIR102_LIRC2",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.806451612903226
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC2",
+            "target": "DIF113_DIFC2",
+            "value": 56,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 12.096774193548388
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT103_PRTC2",
+            "value": 19,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.32258064516129
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC2",
+            "target": "DIF101_ANLC2",
+            "value": 41,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 10.161290322580644
+                }
+            }
+        },
+        {
+            "source": "PRT101_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC2",
+            "target": "DIF115_ANLC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.419354838709678
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD112_CVDC2",
+            "target": "LAS103_LASC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "DIF108_DIFC2",
+            "target": "SEL102_SELC2",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.032258064516129
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD106_CVDC2",
+            "target": "LAS102_LASC2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.935483870967742
+                }
+            }
+        },
+        {
+            "source": "DIF101_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD119_CAPC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT109_PRTC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "PRT109_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.290322580645161
+                }
+            }
+        },
+        {
+            "source": "PRT107A_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD122_CAPC2",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.67741935483871
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD127_CAPC2",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.35483870967742
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT107B_PRTC2",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 9.0
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC2",
+            "target": "DIF108_DIFC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD126_CAPC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD118_CAPC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "DIF102_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.290322580645161
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC2",
+            "target": "DIF115_ANLC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.806451612903226
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF116_ANLC2",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.806451612903226
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.935483870967742
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT102_PRTC2",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 8.35483870967742
+                }
+            }
+        },
+        {
+            "source": "PRT103_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD123_CAPC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.161290322580645
+                }
+            }
+        },
+        {
+            "source": "DIF116_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD121_CAPC2",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.67741935483871
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD101_CVDC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC2",
+            "target": "CVD114_CVDC2",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.161290322580645
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT101_PRTC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.032258064516129
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD106_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD101_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT102_PRTC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF110_ANLC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 19,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 7.32258064516129
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD127_CAPC2",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.032258064516129
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD101_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC2",
+            "target": "INX107_INXC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "INX107_INXC2",
+            "target": "DIF114_ANLC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD117_CAPC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC2",
+            "target": "LIR103_LIRC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT105_PRTC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC2",
+            "target": "INX103_INXC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF104_ANLC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC2",
+            "target": "LIR104_LIRC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD109_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC2",
+            "target": "LIR103_LIRC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.032258064516129
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC2",
+            "target": "CVD101_CVDC2",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.806451612903226
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD116_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD116_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "INX107_INXC2",
+            "target": "DIF115_ANLC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC2",
+            "target": "DIF117_ANLC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC2",
+            "target": "DIF111_ANLC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "PRT103_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF101_ANLC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD124_CAPC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD104_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT107A_PRTC2",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.161290322580645
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT110_PRTC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "PRT110_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.645161290322581
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC2",
+            "target": "CVD114_CVDC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC2",
+            "target": "PRT110_PRTC2",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.032258064516129
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC2",
+            "target": "DIF111_ANLC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC2",
+            "target": "LIR104_LIRC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC2",
+            "target": "CVD115_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "PRT103_PRTC2",
+            "target": "LIR103_LIRC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "DIF108_DIFC2",
+            "target": "SEL103_SELC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC2",
+            "target": "INX105_INXC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC2",
+            "target": "CVD128_CAPC2",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.161290322580645
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC2",
+            "target": "PRT109_PRTC2",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.032258064516129
+                }
+            }
+        },
+        {
+            "source": "PRT109_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC2",
+            "target": "DIF109_DIFC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC2",
+            "target": "LIR103_LIRC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC2",
+            "target": "DIF110_ANLC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "DIF106_DIFC2",
+            "target": "SEL103_SELC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC2",
+            "target": "INX104_INXC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC2",
+            "target": "CVD116_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF104_ANLC2",
+            "target": "ALD102_ALDC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "CVD112_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT107B_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC2",
+            "target": "LIR104_LIRC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "DIF109_DIFC2",
+            "target": "SEL103_SELC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 6.419354838709678
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "CVD105_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF111_ANLC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD102_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC2",
+            "target": "LIR107_LIRC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "PRT110_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.903225806451613
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD103_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT106_PRTC2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.516129032258064
+                }
+            }
+        },
+        {
+            "source": "PRT107A_PRTC2",
+            "target": "LIR106_LIRC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT110_PRTC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC2",
+            "target": "CVD109_CVDC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "PRT109_PRTC2",
+            "target": "LIR102_LIRC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF109_DIFC2",
+            "target": "SEL102_SELC2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.774193548387097
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC2",
+            "target": "DIF111_ANLC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC2",
+            "target": "PRT109_PRTC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "INX105_INXC2",
+            "target": "DIF102_ANLC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "DIF107_DIFC2",
+            "target": "SEL103_SELC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC2",
+            "target": "CVD101_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC2",
+            "target": "LIR104_LIRC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "DIF117_ANLC2",
+            "target": "ALD103_ALDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "INX105_INXC2",
+            "target": "DIF114_ANLC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD107_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC2",
+            "target": "CVD106_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD101_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.387096774193548
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC2",
+            "target": "CVD105_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.258064516129032
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC2",
+            "target": "CVD104_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD101_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "INX105_INXC2",
+            "target": "DIF115_ANLC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5.129032258064516
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF102_ANLC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC2",
+            "target": "LIR105_LIRC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT110_PRTC2",
+            "target": "LIR102_LIRC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD107_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC2",
+            "target": "CVD102_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC2",
+            "target": "DIF103_ANLC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALD101_ALDC2",
+            "target": "CVD120_CAPC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT101_PRTC2",
+            "target": "LIR104_LIRC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC2",
+            "target": "CVD112_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC2",
+            "target": "CVD116_CAPC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC2",
+            "target": "CVD103_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC2",
+            "target": "CVD108_CVDC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD108_CVDC2",
+            "target": "LAS101_LASC2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "color": "rgb(145, 204, 117, 0.3)",
+                    "width": 5
+                }
+            }
+        }
+    ],
+    "categories": [
+        {
+            "name": "C2"
+        }
+    ]
+}
