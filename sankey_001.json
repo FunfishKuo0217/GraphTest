@@ -1,0 +1,839 @@
+{
+    "nodes": [
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u4f73\u4ec1\u5bcc"
+        },
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056"
+        },
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210"
+        },
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5"
+        },
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1"
+        },
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377"
+        },
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79"
+        },
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354"
+        },
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6"
+        },
+        {
+            "name": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1"
+        },
+        {
+            "name": "\u5ba2\u6236\u7522\u696d_other:\u5ba2\u6236\u7522\u696d"
+        },
+        {
+            "name": "\u5ba2\u6236\u7522\u696d_\u4f4f\u5bbf\u2571\u9910\u98f2\u670d\u52d9\u696d"
+        },
+        {
+            "name": "\u5ba2\u6236\u7522\u696d_\u5927\u8846\u50b3\u64ad\u76f8\u95dc\u696d"
+        },
+        {
+            "name": "\u5ba2\u6236\u7522\u696d_\u6279\u767c\u2571\u96f6\u552e\u2571\u50b3\u76f4\u92b7\u696d"
+        },
+        {
+            "name": "\u5ba2\u6236\u7522\u696d_\u91ab\u7642\u4fdd\u5065\u53ca\u74b0\u5883\u885b\u751f\u696d"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u5433\u6021\u7434"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u5468\u65bc\u502b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u5468\u65bc\u502b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u90ed\u6dd1\u63da"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b"
+        },
+        {
+            "name": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u9032\u884c\u4e2d"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4"
+        },
+        {
+            "name": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4"
+        }
+    ],
+    "links": [
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u4f73\u4ec1\u5bcc",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 109.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u4f73\u4ec1\u5bcc",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 106.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 13.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u6021\u7434",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5468\u65bc\u502b",
+            "value": 15.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 28.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 16.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 55.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091",
+            "value": 13.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 37.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 46.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 15.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 33.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 41.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091",
+            "value": 17.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 24.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 21.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 115.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5468\u65bc\u502b",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b",
+            "value": 15.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u90ed\u6dd1\u63da",
+            "value": 15.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 58.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 38.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca",
+            "value": 14.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 57.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 20.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 17.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 99.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 18.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 59.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 19.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 29.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca",
+            "value": 14.0
+        },
+        {
+            "source": "\u5ba2\u6236\u7522\u696d_other:\u5ba2\u6236\u7522\u696d",
+            "target": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5",
+            "value": 138.0
+        },
+        {
+            "source": "\u5ba2\u6236\u7522\u696d_other:\u5ba2\u6236\u7522\u696d",
+            "target": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "value": 186.0
+        },
+        {
+            "source": "\u5ba2\u6236\u7522\u696d_\u4f4f\u5bbf\u2571\u9910\u98f2\u670d\u52d9\u696d",
+            "target": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377",
+            "value": 186.0
+        },
+        {
+            "source": "\u5ba2\u6236\u7522\u696d_\u4f4f\u5bbf\u2571\u9910\u98f2\u670d\u52d9\u696d",
+            "target": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "value": 158.0
+        },
+        {
+            "source": "\u5ba2\u6236\u7522\u696d_\u5927\u8846\u50b3\u64ad\u76f8\u95dc\u696d",
+            "target": "\u5ba2\u6236\u540d\u7a31_\u4f73\u4ec1\u5bcc",
+            "value": 151.0
+        },
+        {
+            "source": "\u5ba2\u6236\u7522\u696d_\u5927\u8846\u50b3\u64ad\u76f8\u95dc\u696d",
+            "target": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "value": 155.0
+        },
+        {
+            "source": "\u5ba2\u6236\u7522\u696d_\u6279\u767c\u2571\u96f6\u552e\u2571\u50b3\u76f4\u92b7\u696d",
+            "target": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "value": 159.0
+        },
+        {
+            "source": "\u5ba2\u6236\u7522\u696d_\u91ab\u7642\u4fdd\u5065\u53ca\u74b0\u5883\u885b\u751f\u696d",
+            "target": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1",
+            "value": 140.0
+        },
+        {
+            "source": "\u5ba2\u6236\u7522\u696d_\u91ab\u7642\u4fdd\u5065\u53ca\u74b0\u5883\u885b\u751f\u696d",
+            "target": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "value": 137.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u4f73\u4ec1\u5bcc",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 109.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u4f73\u4ec1\u5bcc",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 106.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 13.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u6021\u7434",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5468\u65bc\u502b",
+            "value": 15.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 28.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u512a\u8056",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 16.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 55.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091",
+            "value": 13.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 37.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5149\u6210",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 46.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 15.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 33.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u570b\u52d5",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 41.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091",
+            "value": 17.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 24.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u5b89\u6d2a\u4ec1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 21.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 115.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5468\u65bc\u502b",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b",
+            "value": 15.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u660c\u6d2a\u6377",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u90ed\u6dd1\u63da",
+            "value": 15.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 58.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 38.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u6b63\u5e79",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca",
+            "value": 14.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 57.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 20.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 17.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u7fa9\u5168\u5354",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca",
+            "value": 11.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 99.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 18.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9ad8\u5bf6",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca",
+            "value": 10.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "value": 59.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "value": 19.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u738b\u6021\u5982",
+            "value": 29.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "value": 12.0
+        },
+        {
+            "source": "\u5ba2\u6236\u540d\u7a31_\u9f0e\u51f1",
+            "target": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca",
+            "value": 14.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_other:\u696d\u52d9\u4eba\u54e1",
+            "target": "\u5c08\u6848\u72c0\u614b_\u9032\u884c\u4e2d",
+            "value": 17.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_\u5433\u601d\u8ce2",
+            "target": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4",
+            "value": 90.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_\u5433\u6021\u7434",
+            "target": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4",
+            "value": 88.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_\u5468\u65bc\u502b",
+            "target": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4",
+            "value": 101.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_\u66f9\u5a49\u541b",
+            "target": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4",
+            "value": 99.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_\u738b\u5049\u5091",
+            "target": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4",
+            "value": 102.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_\u8cf4\u6631\u5b8f",
+            "target": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4",
+            "value": 99.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_\u90ed\u6dd1\u63da",
+            "target": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4",
+            "value": 88.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_\u9673\u6625\u9d3b",
+            "target": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4",
+            "value": 127.0
+        },
+        {
+            "source": "\u696d\u52d9\u4eba\u54e1_\u9ec3\u6167\u73ca",
+            "target": "\u5c08\u6848\u72c0\u614b_\u6210\u4ea4",
+            "value": 106.0
+        }
+    ]
+}
