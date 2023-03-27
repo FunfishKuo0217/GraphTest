@@ -1,0 +1,6314 @@
+{
+    "node": [
+        {
+            "name": "ALK102_ITXC3",
+            "x": 50,
+            "y": 672,
+            "itemStyle": {
+                "opacity": "0.8131487889273357"
+            },
+            "value": 705,
+            "category": "C3"
+        },
+        {
+            "name": "DIF105_DIFC3",
+            "x": 175,
+            "y": 321,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 303,
+            "category": "C3"
+        },
+        {
+            "name": "SEL103_SELC3",
+            "x": 300,
+            "y": 726,
+            "itemStyle": {
+                "opacity": "0.5458715596330275"
+            },
+            "value": 476,
+            "category": "C3"
+        },
+        {
+            "name": "INX101_INXC3",
+            "x": 425,
+            "y": 332,
+            "itemStyle": {
+                "opacity": "0.9309309309309309"
+            },
+            "value": 310,
+            "category": "C3"
+        },
+        {
+            "name": "DIF101_ANLC3",
+            "x": 550,
+            "y": 299,
+            "itemStyle": {
+                "opacity": "0.8082901554404145"
+            },
+            "value": 156,
+            "category": "C3"
+        },
+        {
+            "name": "ALD103_ALDC3",
+            "x": 675,
+            "y": 726,
+            "itemStyle": {
+                "opacity": "0.9986013986013986"
+            },
+            "value": 714,
+            "category": "C3"
+        },
+        {
+            "name": "CVD126_CAPC3",
+            "x": 800,
+            "y": 740,
+            "itemStyle": {
+                "opacity": "0.7891566265060241"
+            },
+            "value": 131,
+            "category": "C3"
+        },
+        {
+            "name": "CVD108_CVDC3",
+            "x": 925,
+            "y": 590,
+            "itemStyle": {
+                "opacity": "0.8273809523809523"
+            },
+            "value": 139,
+            "category": "C3"
+        },
+        {
+            "name": "LAS102_LASC3",
+            "x": 1050,
+            "y": 564,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 873,
+            "category": "C3"
+        },
+        {
+            "name": "PRT107B_PRTC3",
+            "x": 1175,
+            "y": 640,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 208,
+            "category": "C3"
+        },
+        {
+            "name": "LIR104_LIRC3",
+            "x": 1300,
+            "y": 516,
+            "itemStyle": {
+                "opacity": "0.8481781376518218"
+            },
+            "value": 419,
+            "category": "C3"
+        },
+        {
+            "name": "DIF113_DIFC3",
+            "x": 175,
+            "y": 807,
+            "itemStyle": {
+                "opacity": "0.9306930693069307"
+            },
+            "value": 282,
+            "category": "C3"
+        },
+        {
+            "name": "DIF104_ANLC3",
+            "x": 550,
+            "y": 476,
+            "itemStyle": {
+                "opacity": "0.7512953367875648"
+            },
+            "value": 145,
+            "category": "C3"
+        },
+        {
+            "name": "CVD119_CAPC3",
+            "x": 800,
+            "y": 390,
+            "itemStyle": {
+                "opacity": "0.7469879518072289"
+            },
+            "value": 124,
+            "category": "C3"
+        },
+        {
+            "name": "CVD107_CVDC3",
+            "x": 925,
+            "y": 540,
+            "itemStyle": {
+                "opacity": "0.9404761904761905"
+            },
+            "value": 158,
+            "category": "C3"
+        },
+        {
+            "name": "PRT105_PRTC3",
+            "x": 1175,
+            "y": 490,
+            "itemStyle": {
+                "opacity": "0.7307692307692307"
+            },
+            "value": 152,
+            "category": "C3"
+        },
+        {
+            "name": "LIR106_LIRC3",
+            "x": 1300,
+            "y": 700,
+            "itemStyle": {
+                "opacity": "0.6356275303643725"
+            },
+            "value": 314,
+            "category": "C3"
+        },
+        {
+            "name": "ALK101_ITXC3",
+            "x": 50,
+            "y": 456,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 867,
+            "category": "C3"
+        },
+        {
+            "name": "INX102_INXC3",
+            "x": 425,
+            "y": 424,
+            "itemStyle": {
+                "opacity": "0.8708708708708709"
+            },
+            "value": 290,
+            "category": "C3"
+        },
+        {
+            "name": "DIF102_ANLC3",
+            "x": 550,
+            "y": 358,
+            "itemStyle": {
+                "opacity": "0.7564766839378239"
+            },
+            "value": 146,
+            "category": "C3"
+        },
+        {
+            "name": "CVD120_CAPC3",
+            "x": 800,
+            "y": 440,
+            "itemStyle": {
+                "opacity": "0.7289156626506024"
+            },
+            "value": 121,
+            "category": "C3"
+        },
+        {
+            "name": "PRT101_PRTC3",
+            "x": 1175,
+            "y": 290,
+            "itemStyle": {
+                "opacity": "0.6875"
+            },
+            "value": 143,
+            "category": "C3"
+        },
+        {
+            "name": "LIR102_LIRC3",
+            "x": 1300,
+            "y": 332,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 494,
+            "category": "C3"
+        },
+        {
+            "name": "DIF106_DIFC3",
+            "x": 175,
+            "y": 402,
+            "itemStyle": {
+                "opacity": "0.8448844884488449"
+            },
+            "value": 256,
+            "category": "C3"
+        },
+        {
+            "name": "SEL102_SELC3",
+            "x": 300,
+            "y": 564,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 872,
+            "category": "C3"
+        },
+        {
+            "name": "INX103_INXC3",
+            "x": 425,
+            "y": 516,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 333,
+            "category": "C3"
+        },
+        {
+            "name": "DIF115_ANLC3",
+            "x": 550,
+            "y": 712,
+            "itemStyle": {
+                "opacity": "0.7564766839378239"
+            },
+            "value": 146,
+            "category": "C3"
+        },
+        {
+            "name": "ALD102_ALDC3",
+            "x": 675,
+            "y": 564,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 715,
+            "category": "C3"
+        },
+        {
+            "name": "CVD122_CAPC3",
+            "x": 800,
+            "y": 540,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 166,
+            "category": "C3"
+        },
+        {
+            "name": "CVD104_CVDC3",
+            "x": 925,
+            "y": 390,
+            "itemStyle": {
+                "opacity": "0.9404761904761905"
+            },
+            "value": 158,
+            "category": "C3"
+        },
+        {
+            "name": "DIF114_ANLC3",
+            "x": 550,
+            "y": 653,
+            "itemStyle": {
+                "opacity": "0.8808290155440415"
+            },
+            "value": 170,
+            "category": "C3"
+        },
+        {
+            "name": "CVD102_CVDC3",
+            "x": 925,
+            "y": 290,
+            "itemStyle": {
+                "opacity": "0.8928571428571429"
+            },
+            "value": 150,
+            "category": "C3"
+        },
+        {
+            "name": "PRT102_PRTC3",
+            "x": 1175,
+            "y": 340,
+            "itemStyle": {
+                "opacity": "0.5913461538461539"
+            },
+            "value": 123,
+            "category": "C3"
+        },
+        {
+            "name": "DIF103_ANLC3",
+            "x": 550,
+            "y": 417,
+            "itemStyle": {
+                "opacity": "0.7357512953367875"
+            },
+            "value": 142,
+            "category": "C3"
+        },
+        {
+            "name": "DIF112_DIFC3",
+            "x": 175,
+            "y": 726,
+            "itemStyle": {
+                "opacity": "0.5973597359735974"
+            },
+            "value": 181,
+            "category": "C3"
+        },
+        {
+            "name": "INX104_INXC3",
+            "x": 425,
+            "y": 608,
+            "itemStyle": {
+                "opacity": "0.948948948948949"
+            },
+            "value": 316,
+            "category": "C3"
+        },
+        {
+            "name": "DIF116_ANLC3",
+            "x": 550,
+            "y": 771,
+            "itemStyle": {
+                "opacity": "0.8134715025906736"
+            },
+            "value": 157,
+            "category": "C3"
+        },
+        {
+            "name": "CVD121_CAPC3",
+            "x": 800,
+            "y": 490,
+            "itemStyle": {
+                "opacity": "0.7289156626506024"
+            },
+            "value": 121,
+            "category": "C3"
+        },
+        {
+            "name": "LAS103_LASC3",
+            "x": 1050,
+            "y": 726,
+            "itemStyle": {
+                "opacity": "0.45933562428407787"
+            },
+            "value": 401,
+            "category": "C3"
+        },
+        {
+            "name": "PRT106_PRTC3",
+            "x": 1175,
+            "y": 540,
+            "itemStyle": {
+                "opacity": "0.6923076923076923"
+            },
+            "value": 144,
+            "category": "C3"
+        },
+        {
+            "name": "CVD128_CAPC3",
+            "x": 800,
+            "y": 840,
+            "itemStyle": {
+                "opacity": "0.5060240963855421"
+            },
+            "value": 84,
+            "category": "C3"
+        },
+        {
+            "name": "CVD106_CVDC3",
+            "x": 925,
+            "y": 490,
+            "itemStyle": {
+                "opacity": "0.6607142857142857"
+            },
+            "value": 111,
+            "category": "C3"
+        },
+        {
+            "name": "DIF107_DIFC3",
+            "x": 175,
+            "y": 483,
+            "itemStyle": {
+                "opacity": "0.8712871287128713"
+            },
+            "value": 264,
+            "category": "C3"
+        },
+        {
+            "name": "CVD123_CAPC3",
+            "x": 800,
+            "y": 590,
+            "itemStyle": {
+                "opacity": "0.8554216867469879"
+            },
+            "value": 142,
+            "category": "C3"
+        },
+        {
+            "name": "CVD103_CVDC3",
+            "x": 925,
+            "y": 340,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 168,
+            "category": "C3"
+        },
+        {
+            "name": "PRT107A_PRTC3",
+            "x": 1175,
+            "y": 590,
+            "itemStyle": {
+                "opacity": "0.8221153846153846"
+            },
+            "value": 171,
+            "category": "C3"
+        },
+        {
+            "name": "CVD127_CAPC3",
+            "x": 800,
+            "y": 790,
+            "itemStyle": {
+                "opacity": "0.5963855421686747"
+            },
+            "value": 99,
+            "category": "C3"
+        },
+        {
+            "name": "CVD105_CVDC3",
+            "x": 925,
+            "y": 440,
+            "itemStyle": {
+                "opacity": "0.7142857142857143"
+            },
+            "value": 120,
+            "category": "C3"
+        },
+        {
+            "name": "PRT104_PRTC3",
+            "x": 1175,
+            "y": 440,
+            "itemStyle": {
+                "opacity": "0.5961538461538461"
+            },
+            "value": 124,
+            "category": "C3"
+        },
+        {
+            "name": "CVD125_CAPC3",
+            "x": 800,
+            "y": 690,
+            "itemStyle": {
+                "opacity": "0.7891566265060241"
+            },
+            "value": 131,
+            "category": "C3"
+        },
+        {
+            "name": "CVD112_CVDC3",
+            "x": 925,
+            "y": 690,
+            "itemStyle": {
+                "opacity": "0.5238095238095238"
+            },
+            "value": 88,
+            "category": "C3"
+        },
+        {
+            "name": "DIF117_ANLC3",
+            "x": 550,
+            "y": 830,
+            "itemStyle": {
+                "opacity": "0.7357512953367875"
+            },
+            "value": 142,
+            "category": "C3"
+        },
+        {
+            "name": "CVD101_CVDC3",
+            "x": 925,
+            "y": 240,
+            "itemStyle": {
+                "opacity": "0.8928571428571429"
+            },
+            "value": 150,
+            "category": "C3"
+        },
+        {
+            "name": "LAS101_LASC3",
+            "x": 1050,
+            "y": 402,
+            "itemStyle": {
+                "opacity": "0.3413516609392898"
+            },
+            "value": 298,
+            "category": "C3"
+        },
+        {
+            "name": "CVD124_CAPC3",
+            "x": 800,
+            "y": 640,
+            "itemStyle": {
+                "opacity": "0.7771084337349398"
+            },
+            "value": 129,
+            "category": "C3"
+        },
+        {
+            "name": "PRT108A_PRTC3",
+            "x": 1175,
+            "y": 690,
+            "itemStyle": {
+                "opacity": "0.8798076923076923"
+            },
+            "value": 183,
+            "category": "C3"
+        },
+        {
+            "name": "LIR107_LIRC3",
+            "x": 1300,
+            "y": 792,
+            "itemStyle": {
+                "opacity": "0.5425101214574899"
+            },
+            "value": 268,
+            "category": "C3"
+        },
+        {
+            "name": "PRT109_PRTC3",
+            "x": 1175,
+            "y": 790,
+            "itemStyle": {
+                "opacity": "0.07692307692307693"
+            },
+            "value": 16,
+            "category": "C3"
+        },
+        {
+            "name": "PRT103_PRTC3",
+            "x": 1175,
+            "y": 390,
+            "itemStyle": {
+                "opacity": "0.5721153846153846"
+            },
+            "value": 119,
+            "category": "C3"
+        },
+        {
+            "name": "PRT110_PRTC3",
+            "x": 1175,
+            "y": 840,
+            "itemStyle": {
+                "opacity": "0.25"
+            },
+            "value": 52,
+            "category": "C3"
+        },
+        {
+            "name": "DIF109_DIFC3",
+            "x": 175,
+            "y": 645,
+            "itemStyle": {
+                "opacity": "0.45544554455445546"
+            },
+            "value": 138,
+            "category": "C3"
+        },
+        {
+            "name": "INX105_INXC3",
+            "x": 425,
+            "y": 700,
+            "itemStyle": {
+                "opacity": "0.918918918918919"
+            },
+            "value": 306,
+            "category": "C3"
+        },
+        {
+            "name": "DIF110_ANLC3",
+            "x": 550,
+            "y": 535,
+            "itemStyle": {
+                "opacity": "0.9067357512953368"
+            },
+            "value": 175,
+            "category": "C3"
+        },
+        {
+            "name": "CVD118_CAPC3",
+            "x": 800,
+            "y": 340,
+            "itemStyle": {
+                "opacity": "0.7048192771084337"
+            },
+            "value": 117,
+            "category": "C3"
+        },
+        {
+            "name": "CVD115_CVDC3",
+            "x": 925,
+            "y": 790,
+            "itemStyle": {
+                "opacity": "0.7023809523809523"
+            },
+            "value": 118,
+            "category": "C3"
+        },
+        {
+            "name": "DIF108_DIFC3",
+            "x": 175,
+            "y": 564,
+            "itemStyle": {
+                "opacity": "0.4884488448844885"
+            },
+            "value": 148,
+            "category": "C3"
+        },
+        {
+            "name": "SEL101_SELC3",
+            "x": 300,
+            "y": 402,
+            "itemStyle": {
+                "opacity": "0.25688073394495414"
+            },
+            "value": 224,
+            "category": "C3"
+        },
+        {
+            "name": "DIF111_ANLC3",
+            "x": 550,
+            "y": 594,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 193,
+            "category": "C3"
+        },
+        {
+            "name": "ALD101_ALDC3",
+            "x": 675,
+            "y": 402,
+            "itemStyle": {
+                "opacity": "0.2"
+            },
+            "value": 143,
+            "category": "C3"
+        },
+        {
+            "name": "CVD116_CAPC3",
+            "x": 800,
+            "y": 240,
+            "itemStyle": {
+                "opacity": "0.536144578313253"
+            },
+            "value": 89,
+            "category": "C3"
+        },
+        {
+            "name": "CVD114_CVDC3",
+            "x": 925,
+            "y": 740,
+            "itemStyle": {
+                "opacity": "0.7202380952380952"
+            },
+            "value": 121,
+            "category": "C3"
+        },
+        {
+            "name": "CVD109_CVDC3",
+            "x": 925,
+            "y": 640,
+            "itemStyle": {
+                "opacity": "0.5"
+            },
+            "value": 84,
+            "category": "C3"
+        },
+        {
+            "name": "INX107_INXC3",
+            "x": 425,
+            "y": 792,
+            "itemStyle": {
+                "opacity": "0.05105105105105105"
+            },
+            "value": 17,
+            "category": "C3"
+        },
+        {
+            "name": "CVD117_CAPC3",
+            "x": 800,
+            "y": 290,
+            "itemStyle": {
+                "opacity": "0.7108433734939759"
+            },
+            "value": 118,
+            "category": "C3"
+        },
+        {
+            "name": "LIR103_LIRC3",
+            "x": 1300,
+            "y": 424,
+            "itemStyle": {
+                "opacity": "0.15384615384615385"
+            },
+            "value": 76,
+            "category": "C3"
+        },
+        {
+            "name": "PRT108B_PRTC3",
+            "x": 1175,
+            "y": 740,
+            "itemStyle": {
+                "opacity": "0.6586538461538461"
+            },
+            "value": 137,
+            "category": "C3"
+        },
+        {
+            "name": "CVD116_CVDC3",
+            "x": 925,
+            "y": 840,
+            "itemStyle": {
+                "opacity": "0.041666666666666664"
+            },
+            "value": 7,
+            "category": "C3"
+        },
+        {
+            "name": "LIR105_LIRC3",
+            "x": 1300,
+            "y": 608,
+            "itemStyle": {
+                "opacity": "0.0020242914979757085"
+            },
+            "value": 1,
+            "category": "C3"
+        },
+        {
+            "name": "ALK102_ITXC4",
+            "x": 50,
+            "y": 672,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.13,
+            "category": "C4"
+        },
+        {
+            "name": "DIF107_DIFC4",
+            "x": 175,
+            "y": 483,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.17,
+            "category": "C4"
+        },
+        {
+            "name": "SEL102_SELC4",
+            "x": 300,
+            "y": 564,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.13,
+            "category": "C4"
+        },
+        {
+            "name": "INX101_INXC4",
+            "x": 425,
+            "y": 332,
+            "itemStyle": {
+                "opacity": "0.8363636363636363"
+            },
+            "value": 0.13,
+            "category": "C4"
+        },
+        {
+            "name": "DIF104_ANLC4",
+            "x": 550,
+            "y": 476,
+            "itemStyle": {
+                "opacity": "0.9666666666666667"
+            },
+            "value": 0.17,
+            "category": "C4"
+        },
+        {
+            "name": "ALD102_ALDC4",
+            "x": 675,
+            "y": 564,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.12,
+            "category": "C4"
+        },
+        {
+            "name": "CVD123_CAPC4",
+            "x": 800,
+            "y": 590,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.16,
+            "category": "C4"
+        },
+        {
+            "name": "CVD104_CVDC4",
+            "x": 925,
+            "y": 390,
+            "itemStyle": {
+                "opacity": "0.43243243243243246"
+            },
+            "value": 0.09,
+            "category": "C4"
+        },
+        {
+            "name": "LAS102_LASC4",
+            "x": 1050,
+            "y": 564,
+            "itemStyle": {
+                "opacity": "0.6764705882352942"
+            },
+            "value": 0.07,
+            "category": "C4"
+        },
+        {
+            "name": "PRT109_PRTC4",
+            "x": 1175,
+            "y": 790,
+            "itemStyle": {
+                "opacity": "0.15151515151515152"
+            },
+            "value": 0.24,
+            "category": "C4"
+        },
+        {
+            "name": "LIR107_LIRC4",
+            "x": 1300,
+            "y": 792,
+            "itemStyle": {
+                "opacity": "0.4090909090909091"
+            },
+            "value": 0.09,
+            "category": "C4"
+        },
+        {
+            "name": "ALK101_ITXC4",
+            "x": 50,
+            "y": 456,
+            "itemStyle": {
+                "opacity": "0.8725490196078431"
+            },
+            "value": 0.09,
+            "category": "C4"
+        },
+        {
+            "name": "DIF106_DIFC4",
+            "x": 175,
+            "y": 402,
+            "itemStyle": {
+                "opacity": "0.5357142857142857"
+            },
+            "value": 0.1,
+            "category": "C4"
+        },
+        {
+            "name": "INX103_INXC4",
+            "x": 425,
+            "y": 516,
+            "itemStyle": {
+                "opacity": "0.7090909090909091"
+            },
+            "value": 0.1,
+            "category": "C4"
+        },
+        {
+            "name": "DIF114_ANLC4",
+            "x": 550,
+            "y": 653,
+            "itemStyle": {
+                "opacity": "0.36666666666666664"
+            },
+            "value": 0.06,
+            "category": "C4"
+        },
+        {
+            "name": "CVD122_CAPC4",
+            "x": 800,
+            "y": 540,
+            "itemStyle": {
+                "opacity": "0.6428571428571429"
+            },
+            "value": 0.1,
+            "category": "C4"
+        },
+        {
+            "name": "CVD107_CVDC4",
+            "x": 925,
+            "y": 540,
+            "itemStyle": {
+                "opacity": "0.5945945945945946"
+            },
+            "value": 0.12,
+            "category": "C4"
+        },
+        {
+            "name": "LAS103_LASC4",
+            "x": 1050,
+            "y": 726,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.2,
+            "category": "C4"
+        },
+        {
+            "name": "PRT103_PRTC4",
+            "x": 1175,
+            "y": 390,
+            "itemStyle": {
+                "opacity": "0.18181818181818182"
+            },
+            "value": 0.05,
+            "category": "C4"
+        },
+        {
+            "name": "LIR102_LIRC4",
+            "x": 1300,
+            "y": 332,
+            "itemStyle": {
+                "opacity": "0.9545454545454546"
+            },
+            "value": 0.11,
+            "category": "C4"
+        },
+        {
+            "name": "DIF105_DIFC4",
+            "x": 175,
+            "y": 321,
+            "itemStyle": {
+                "opacity": "0.7678571428571429"
+            },
+            "value": 0.12,
+            "category": "C4"
+        },
+        {
+            "name": "INX102_INXC4",
+            "x": 425,
+            "y": 424,
+            "itemStyle": {
+                "opacity": "0.7090909090909091"
+            },
+            "value": 0.12,
+            "category": "C4"
+        },
+        {
+            "name": "DIF101_ANLC4",
+            "x": 550,
+            "y": 299,
+            "itemStyle": {
+                "opacity": "0.8"
+            },
+            "value": 0.13,
+            "category": "C4"
+        },
+        {
+            "name": "ALD103_ALDC4",
+            "x": 675,
+            "y": 726,
+            "itemStyle": {
+                "opacity": "0.85"
+            },
+            "value": 0.11,
+            "category": "C4"
+        },
+        {
+            "name": "CVD127_CAPC4",
+            "x": 800,
+            "y": 790,
+            "itemStyle": {
+                "opacity": "0.4642857142857143"
+            },
+            "value": 0.12,
+            "category": "C4"
+        },
+        {
+            "name": "CVD106_CVDC4",
+            "x": 925,
+            "y": 490,
+            "itemStyle": {
+                "opacity": "0.32432432432432434"
+            },
+            "value": 0.1,
+            "category": "C4"
+        },
+        {
+            "name": "PRT104_PRTC4",
+            "x": 1175,
+            "y": 440,
+            "itemStyle": {
+                "opacity": "0.7878787878787878"
+            },
+            "value": 0.17,
+            "category": "C4"
+        },
+        {
+            "name": "DIF112_DIFC4",
+            "x": 175,
+            "y": 726,
+            "itemStyle": {
+                "opacity": "0.30357142857142855"
+            },
+            "value": 0.09,
+            "category": "C4"
+        },
+        {
+            "name": "INX104_INXC4",
+            "x": 425,
+            "y": 608,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.15,
+            "category": "C4"
+        },
+        {
+            "name": "DIF116_ANLC4",
+            "x": 550,
+            "y": 771,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.16,
+            "category": "C4"
+        },
+        {
+            "name": "PRT108A_PRTC4",
+            "x": 1175,
+            "y": 690,
+            "itemStyle": {
+                "opacity": "0.3939393939393939"
+            },
+            "value": 0.07,
+            "category": "C4"
+        },
+        {
+            "name": "SEL103_SELC4",
+            "x": 300,
+            "y": 726,
+            "itemStyle": {
+                "opacity": "0.41353383458646614"
+            },
+            "value": 0.1,
+            "category": "C4"
+        },
+        {
+            "name": "CVD125_CAPC4",
+            "x": 800,
+            "y": 690,
+            "itemStyle": {
+                "opacity": "0.7142857142857143"
+            },
+            "value": 0.13,
+            "category": "C4"
+        },
+        {
+            "name": "CVD102_CVDC4",
+            "x": 925,
+            "y": 290,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.2,
+            "category": "C4"
+        },
+        {
+            "name": "PRT101_PRTC4",
+            "x": 1175,
+            "y": 290,
+            "itemStyle": {
+                "opacity": "0.5757575757575758"
+            },
+            "value": 0.12,
+            "category": "C4"
+        },
+        {
+            "name": "DIF113_DIFC4",
+            "x": 175,
+            "y": 807,
+            "itemStyle": {
+                "opacity": "0.6428571428571429"
+            },
+            "value": 0.11,
+            "category": "C4"
+        },
+        {
+            "name": "CVD126_CAPC4",
+            "x": 800,
+            "y": 740,
+            "itemStyle": {
+                "opacity": "0.5714285714285714"
+            },
+            "value": 0.11,
+            "category": "C4"
+        },
+        {
+            "name": "CVD124_CAPC4",
+            "x": 800,
+            "y": 640,
+            "itemStyle": {
+                "opacity": "0.9642857142857143"
+            },
+            "value": 0.17,
+            "category": "C4"
+        },
+        {
+            "name": "CVD108_CVDC4",
+            "x": 925,
+            "y": 590,
+            "itemStyle": {
+                "opacity": "0.7027027027027027"
+            },
+            "value": 0.16,
+            "category": "C4"
+        },
+        {
+            "name": "PRT105_PRTC4",
+            "x": 1175,
+            "y": 490,
+            "itemStyle": {
+                "opacity": "0.3939393939393939"
+            },
+            "value": 0.08,
+            "category": "C4"
+        },
+        {
+            "name": "LIR104_LIRC4",
+            "x": 1300,
+            "y": 516,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.14,
+            "category": "C4"
+        },
+        {
+            "name": "DIF102_ANLC4",
+            "x": 550,
+            "y": 358,
+            "itemStyle": {
+                "opacity": "0.43333333333333335"
+            },
+            "value": 0.08,
+            "category": "C4"
+        },
+        {
+            "name": "CVD119_CAPC4",
+            "x": 800,
+            "y": 390,
+            "itemStyle": {
+                "opacity": "0.5"
+            },
+            "value": 0.1,
+            "category": "C4"
+        },
+        {
+            "name": "CVD105_CVDC4",
+            "x": 925,
+            "y": 440,
+            "itemStyle": {
+                "opacity": "0.35135135135135137"
+            },
+            "value": 0.1,
+            "category": "C4"
+        },
+        {
+            "name": "LIR106_LIRC4",
+            "x": 1300,
+            "y": 700,
+            "itemStyle": {
+                "opacity": "0.5"
+            },
+            "value": 0.1,
+            "category": "C4"
+        },
+        {
+            "name": "CVD128_CAPC4",
+            "x": 800,
+            "y": 840,
+            "itemStyle": {
+                "opacity": "0.42857142857142855"
+            },
+            "value": 0.12,
+            "category": "C4"
+        },
+        {
+            "name": "INX105_INXC4",
+            "x": 425,
+            "y": 700,
+            "itemStyle": {
+                "opacity": "0.2"
+            },
+            "value": 0.03,
+            "category": "C4"
+        },
+        {
+            "name": "DIF110_ANLC4",
+            "x": 550,
+            "y": 535,
+            "itemStyle": {
+                "opacity": "0.23333333333333334"
+            },
+            "value": 0.04,
+            "category": "C4"
+        },
+        {
+            "name": "ALD101_ALDC4",
+            "x": 675,
+            "y": 402,
+            "itemStyle": {
+                "opacity": "0.06"
+            },
+            "value": 0.04,
+            "category": "C4"
+        },
+        {
+            "name": "CVD117_CAPC4",
+            "x": 800,
+            "y": 290,
+            "itemStyle": {
+                "opacity": "0.2857142857142857"
+            },
+            "value": 0.06,
+            "category": "C4"
+        },
+        {
+            "name": "CVD115_CVDC4",
+            "x": 925,
+            "y": 790,
+            "itemStyle": {
+                "opacity": "0.13513513513513514"
+            },
+            "value": 0.04,
+            "category": "C4"
+        },
+        {
+            "name": "LAS101_LASC4",
+            "x": 1050,
+            "y": 402,
+            "itemStyle": {
+                "opacity": "0.19607843137254902"
+            },
+            "value": 0.06,
+            "category": "C4"
+        },
+        {
+            "name": "PRT107A_PRTC4",
+            "x": 1175,
+            "y": 590,
+            "itemStyle": {
+                "opacity": "0.9090909090909091"
+            },
+            "value": 0.15,
+            "category": "C4"
+        },
+        {
+            "name": "DIF117_ANLC4",
+            "x": 550,
+            "y": 830,
+            "itemStyle": {
+                "opacity": "0.9666666666666667"
+            },
+            "value": 0.17,
+            "category": "C4"
+        },
+        {
+            "name": "CVD101_CVDC4",
+            "x": 925,
+            "y": 240,
+            "itemStyle": {
+                "opacity": "0.6216216216216216"
+            },
+            "value": 0.13,
+            "category": "C4"
+        },
+        {
+            "name": "CVD121_CAPC4",
+            "x": 800,
+            "y": 490,
+            "itemStyle": {
+                "opacity": "0.5714285714285714"
+            },
+            "value": 0.12,
+            "category": "C4"
+        },
+        {
+            "name": "PRT107B_PRTC4",
+            "x": 1175,
+            "y": 640,
+            "itemStyle": {
+                "opacity": "1.0"
+            },
+            "value": 0.14,
+            "category": "C4"
+        },
+        {
+            "name": "CVD103_CVDC4",
+            "x": 925,
+            "y": 340,
+            "itemStyle": {
+                "opacity": "0.5135135135135135"
+            },
+            "value": 0.1,
+            "category": "C4"
+        },
+        {
+            "name": "DIF103_ANLC4",
+            "x": 550,
+            "y": 417,
+            "itemStyle": {
+                "opacity": "0.7"
+            },
+            "value": 0.13,
+            "category": "C4"
+        },
+        {
+            "name": "DIF108_DIFC4",
+            "x": 175,
+            "y": 564,
+            "itemStyle": {
+                "opacity": "0.10714285714285714"
+            },
+            "value": 0.04,
+            "category": "C4"
+        },
+        {
+            "name": "CVD109_CVDC4",
+            "x": 925,
+            "y": 640,
+            "itemStyle": {
+                "opacity": "0.16216216216216217"
+            },
+            "value": 0.07,
+            "category": "C4"
+        },
+        {
+            "name": "PRT106_PRTC4",
+            "x": 1175,
+            "y": 540,
+            "itemStyle": {
+                "opacity": "0.3333333333333333"
+            },
+            "value": 0.07,
+            "category": "C4"
+        },
+        {
+            "name": "CVD112_CVDC4",
+            "x": 925,
+            "y": 690,
+            "itemStyle": {
+                "opacity": "0.13513513513513514"
+            },
+            "value": 0.05,
+            "category": "C4"
+        },
+        {
+            "name": "PRT102_PRTC4",
+            "x": 1175,
+            "y": 340,
+            "itemStyle": {
+                "opacity": "0.5757575757575758"
+            },
+            "value": 0.13,
+            "category": "C4"
+        },
+        {
+            "name": "DIF115_ANLC4",
+            "x": 550,
+            "y": 712,
+            "itemStyle": {
+                "opacity": "0.6333333333333333"
+            },
+            "value": 0.12,
+            "category": "C4"
+        },
+        {
+            "name": "CVD118_CAPC4",
+            "x": 800,
+            "y": 340,
+            "itemStyle": {
+                "opacity": "0.21428571428571427"
+            },
+            "value": 0.05,
+            "category": "C4"
+        },
+        {
+            "name": "SEL101_SELC4",
+            "x": 300,
+            "y": 402,
+            "itemStyle": {
+                "opacity": "0.022556390977443608"
+            },
+            "value": 0.01,
+            "category": "C4"
+        },
+        {
+            "name": "DIF111_ANLC4",
+            "x": 550,
+            "y": 594,
+            "itemStyle": {
+                "opacity": "0.26666666666666666"
+            },
+            "value": 0.04,
+            "category": "C4"
+        },
+        {
+            "name": "CVD116_CAPC4",
+            "x": 800,
+            "y": 240,
+            "itemStyle": {
+                "opacity": "0.07142857142857142"
+            },
+            "value": 0.02,
+            "category": "C4"
+        },
+        {
+            "name": "CVD114_CVDC4",
+            "x": 925,
+            "y": 740,
+            "itemStyle": {
+                "opacity": "0.16216216216216217"
+            },
+            "value": 0.05,
+            "category": "C4"
+        },
+        {
+            "name": "PRT108B_PRTC4",
+            "x": 1175,
+            "y": 740,
+            "itemStyle": {
+                "opacity": "0.3333333333333333"
+            },
+            "value": 0.07,
+            "category": "C4"
+        },
+        {
+            "name": "LIR103_LIRC4",
+            "x": 1300,
+            "y": 424,
+            "itemStyle": {
+                "opacity": "0.030303030303030304"
+            },
+            "value": 0.03,
+            "category": "C4"
+        },
+        {
+            "name": "DIF109_DIFC4",
+            "x": 175,
+            "y": 645,
+            "itemStyle": {
+                "opacity": "0.05357142857142857"
+            },
+            "value": 0.02,
+            "category": "C4"
+        },
+        {
+            "name": "CVD120_CAPC4",
+            "x": 800,
+            "y": 440,
+            "itemStyle": {
+                "opacity": "0.39285714285714285"
+            },
+            "value": 0.08,
+            "category": "C4"
+        },
+        {
+            "name": "PRT110_PRTC4",
+            "x": 1175,
+            "y": 840,
+            "itemStyle": {
+                "opacity": "0.15151515151515152"
+            },
+            "value": 0.09,
+            "category": "C4"
+        },
+        {
+            "name": "INX107_INXC4",
+            "x": 425,
+            "y": 792,
+            "itemStyle": {
+                "opacity": "0.01818181818181818"
+            },
+            "value": 0.06,
+            "category": "C4"
+        },
+        {
+            "name": "CVD116_CVDC4",
+            "x": 925,
+            "y": 840,
+            "itemStyle": {
+                "opacity": "0.02702702702702703"
+            },
+            "value": 0.12,
+            "category": "C4"
+        }
+    ],
+    "link": [
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 34,
+            "lineStyle": {
+                "normal": {
+                    "width": 18.333333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 33,
+            "lineStyle": {
+                "normal": {
+                    "width": 17.916666666666668
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 28,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.833333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 38,
+            "lineStyle": {
+                "normal": {
+                    "width": 20.0
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.25
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD108_CVDC3",
+            "target": "LAS103_LASC3",
+            "value": 35,
+            "lineStyle": {
+                "normal": {
+                    "width": 18.75
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC3",
+            "target": "PRT106_PRTC3",
+            "value": 35,
+            "lineStyle": {
+                "normal": {
+                    "width": 18.75
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC3",
+            "target": "LIR104_LIRC3",
+            "value": 29,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.25
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC3",
+            "target": "CVD128_CAPC3",
+            "value": 44,
+            "lineStyle": {
+                "normal": {
+                    "width": 22.5
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "CVD106_CVDC3",
+            "target": "LAS103_LASC3",
+            "value": 36,
+            "lineStyle": {
+                "normal": {
+                    "width": 19.166666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.75
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD103_CVDC3",
+            "target": "LAS103_LASC3",
+            "value": 50,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD105_CVDC3",
+            "target": "LAS103_LASC3",
+            "value": 30,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.666666666666668
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC3",
+            "target": "PRT104_PRTC3",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.916666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.5
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC3",
+            "target": "CVD125_CAPC3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.333333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD101_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT102_PRTC3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 30,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.666666666666668
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC3",
+            "target": "DIF117_ANLC3",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "width": 17.5
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC3",
+            "target": "PRT109_PRTC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "PRT109_PRTC3",
+            "target": "LIR107_LIRC3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 19,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.083333333333334
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC3",
+            "target": "PRT110_PRTC3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "PRT110_PRTC3",
+            "target": "LIR107_LIRC3",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.75
+                }
+            }
+        },
+        {
+            "source": "DIF101_ANLC3",
+            "target": "ALD102_ALDC3",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 30,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.666666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 45,
+            "lineStyle": {
+                "normal": {
+                    "width": 22.916666666666668
+                }
+            }
+        },
+        {
+            "source": "PRT107B_PRTC3",
+            "target": "LIR102_LIRC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC3",
+            "target": "LIR104_LIRC3",
+            "value": 34,
+            "lineStyle": {
+                "normal": {
+                    "width": 18.333333333333332
+                }
+            }
+        },
+        {
+            "source": "DIF106_DIFC3",
+            "target": "SEL103_SELC3",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.25
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC3",
+            "target": "INX103_INXC3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 49,
+            "lineStyle": {
+                "normal": {
+                    "width": 24.583333333333332
+                }
+            }
+        },
+        {
+            "source": "PRT110_PRTC3",
+            "target": "LIR102_LIRC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "DIF102_ANLC3",
+            "target": "ALD102_ALDC3",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.5
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC3",
+            "target": "CVD119_CAPC3",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.833333333333334
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC3",
+            "target": "DIF116_ANLC3",
+            "value": 28,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.833333333333332
+                }
+            }
+        },
+        {
+            "source": "DIF109_DIFC3",
+            "target": "SEL102_SELC3",
+            "value": 29,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.25
+                }
+            }
+        },
+        {
+            "source": "DIF110_ANLC3",
+            "target": "ALD103_ALDC3",
+            "value": 42,
+            "lineStyle": {
+                "normal": {
+                    "width": 21.666666666666668
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC3",
+            "target": "CVD118_CAPC3",
+            "value": 25,
+            "lineStyle": {
+                "normal": {
+                    "width": 14.583333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC3",
+            "target": "CVD115_CVDC3",
+            "value": 45,
+            "lineStyle": {
+                "normal": {
+                    "width": 22.916666666666668
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT103_PRTC3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "ALD101_ALDC3",
+            "target": "CVD116_CAPC3",
+            "value": 35,
+            "lineStyle": {
+                "normal": {
+                    "width": 18.75
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC3",
+            "target": "CVD114_CVDC3",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "width": 17.5
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT108A_PRTC3",
+            "value": 49,
+            "lineStyle": {
+                "normal": {
+                    "width": 24.583333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC3",
+            "target": "CVD128_CAPC3",
+            "value": 40,
+            "lineStyle": {
+                "normal": {
+                    "width": 20.833333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC3",
+            "target": "PRT102_PRTC3",
+            "value": 36,
+            "lineStyle": {
+                "normal": {
+                    "width": 19.166666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC3",
+            "target": "PRT103_PRTC3",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.916666666666666
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC3",
+            "target": "DIF114_ANLC3",
+            "value": 37,
+            "lineStyle": {
+                "normal": {
+                    "width": 19.583333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.25
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.5
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC3",
+            "target": "CVD116_CAPC3",
+            "value": 35,
+            "lineStyle": {
+                "normal": {
+                    "width": 18.75
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT107B_PRTC3",
+            "value": 48,
+            "lineStyle": {
+                "normal": {
+                    "width": 24.166666666666668
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC3",
+            "target": "DIF101_ANLC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC3",
+            "target": "LIR107_LIRC3",
+            "value": 40,
+            "lineStyle": {
+                "normal": {
+                    "width": 20.833333333333332
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC3",
+            "target": "PRT105_PRTC3",
+            "value": 35,
+            "lineStyle": {
+                "normal": {
+                    "width": 18.75
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC3",
+            "target": "CVD122_CAPC3",
+            "value": 44,
+            "lineStyle": {
+                "normal": {
+                    "width": 22.5
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC3",
+            "target": "INX107_INXC3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "INX107_INXC3",
+            "target": "DIF115_ANLC3",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "DIF115_ANLC3",
+            "target": "ALD103_ALDC3",
+            "value": 39,
+            "lineStyle": {
+                "normal": {
+                    "width": 20.416666666666668
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC3",
+            "target": "CVD121_CAPC3",
+            "value": 39,
+            "lineStyle": {
+                "normal": {
+                    "width": 20.416666666666668
+                }
+            }
+        },
+        {
+            "source": "PRT107B_PRTC3",
+            "target": "LIR107_LIRC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC3",
+            "target": "LIR107_LIRC3",
+            "value": 39,
+            "lineStyle": {
+                "normal": {
+                    "width": 20.416666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.25
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.0
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC3",
+            "target": "PRT101_PRTC3",
+            "value": 28,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.833333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC3",
+            "target": "DIF108_DIFC3",
+            "value": 37,
+            "lineStyle": {
+                "normal": {
+                    "width": 19.583333333333332
+                }
+            }
+        },
+        {
+            "source": "DIF108_DIFC3",
+            "target": "SEL102_SELC3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT107A_PRTC3",
+            "value": 42,
+            "lineStyle": {
+                "normal": {
+                    "width": 21.666666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.5
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC3",
+            "target": "CVD126_CAPC3",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC3",
+            "target": "DIF110_ANLC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC3",
+            "target": "CVD124_CAPC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD104_CVDC3",
+            "target": "LAS103_LASC3",
+            "value": 48,
+            "lineStyle": {
+                "normal": {
+                    "width": 24.166666666666668
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "PRT107A_PRTC3",
+            "target": "LIR107_LIRC3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC3",
+            "target": "DIF110_ANLC3",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.833333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 19,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.083333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD107_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT106_PRTC3",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.333333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC3",
+            "target": "DIF115_ANLC3",
+            "value": 31,
+            "lineStyle": {
+                "normal": {
+                    "width": 17.083333333333332
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC3",
+            "target": "DIF111_ANLC3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 34,
+            "lineStyle": {
+                "normal": {
+                    "width": 18.333333333333332
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC3",
+            "target": "CVD117_CAPC3",
+            "value": 49,
+            "lineStyle": {
+                "normal": {
+                    "width": 24.583333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD114_CVDC3",
+            "value": 39,
+            "lineStyle": {
+                "normal": {
+                    "width": 20.416666666666668
+                }
+            }
+        },
+        {
+            "source": "SEL101_SELC3",
+            "target": "INX104_INXC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "SEL101_SELC3",
+            "target": "INX103_INXC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF103_ANLC3",
+            "target": "ALD102_ALDC3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC3",
+            "target": "INX104_INXC3",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.833333333333334
+                }
+            }
+        },
+        {
+            "source": "ALD101_ALDC3",
+            "target": "CVD117_CAPC3",
+            "value": 42,
+            "lineStyle": {
+                "normal": {
+                    "width": 21.666666666666668
+                }
+            }
+        },
+        {
+            "source": "DIF114_ANLC3",
+            "target": "ALD103_ALDC3",
+            "value": 45,
+            "lineStyle": {
+                "normal": {
+                    "width": 22.916666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC3",
+            "target": "CVD127_CAPC3",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.75
+                }
+            }
+        },
+        {
+            "source": "PRT101_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC3",
+            "target": "CVD118_CAPC3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD115_CVDC3",
+            "value": 46,
+            "lineStyle": {
+                "normal": {
+                    "width": 23.333333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC3",
+            "target": "CVD114_CVDC3",
+            "value": 50,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 28,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.833333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.0
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC3",
+            "target": "DIF110_ANLC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC3",
+            "target": "DIF109_DIFC3",
+            "value": 35,
+            "lineStyle": {
+                "normal": {
+                    "width": 18.75
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD109_CVDC3",
+            "target": "LAS103_LASC3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC3",
+            "target": "CVD123_CAPC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC3",
+            "target": "CVD115_CVDC3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "DIF104_ANLC3",
+            "target": "ALD102_ALDC3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.833333333333334
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT110_PRTC3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC3",
+            "target": "CVD117_CAPC3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT109_PRTC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC3",
+            "target": "DIF111_ANLC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 38,
+            "lineStyle": {
+                "normal": {
+                    "width": 20.0
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD112_CVDC3",
+            "target": "LAS103_LASC3",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.916666666666666
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC3",
+            "target": "CVD120_CAPC3",
+            "value": 19,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.083333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC3",
+            "target": "DIF103_ANLC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "CVD102_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.333333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD107_CVDC3",
+            "target": "LAS103_LASC3",
+            "value": 37,
+            "lineStyle": {
+                "normal": {
+                    "width": 19.583333333333332
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT104_PRTC3",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD108_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC3",
+            "target": "CVD116_CAPC3",
+            "value": 19,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.083333333333334
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT105_PRTC3",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.916666666666666
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC3",
+            "target": "DIF111_ANLC3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC3",
+            "target": "PRT109_PRTC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT101_PRTC3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT110_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 26,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.0
+                }
+            }
+        },
+        {
+            "source": "PRT109_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC3",
+            "target": "LIR107_LIRC3",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD103_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC3",
+            "target": "DIF110_ANLC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC3",
+            "target": "DIF103_ANLC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC3",
+            "target": "DIF111_ANLC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC3",
+            "target": "DIF104_ANLC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "DIF113_DIFC3",
+            "target": "SEL102_SELC3",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC3",
+            "target": "INX105_INXC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.0
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC3",
+            "target": "DIF115_ANLC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT107B_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC3",
+            "target": "LIR102_LIRC3",
+            "value": 31,
+            "lineStyle": {
+                "normal": {
+                    "width": 17.083333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC3",
+            "target": "DIF117_ANLC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC3",
+            "target": "DIF116_ANLC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC3",
+            "target": "LIR103_LIRC3",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC3",
+            "target": "LIR103_LIRC3",
+            "value": 19,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.083333333333334
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC3",
+            "target": "PRT108B_PRTC3",
+            "value": 33,
+            "lineStyle": {
+                "normal": {
+                    "width": 17.916666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD104_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC3",
+            "target": "LIR104_LIRC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC3",
+            "target": "LIR104_LIRC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC3",
+            "target": "LIR103_LIRC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC3",
+            "target": "LIR103_LIRC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "PRT101_PRTC3",
+            "target": "LIR103_LIRC3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "PRT103_PRTC3",
+            "target": "LIR103_LIRC3",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "PRT107B_PRTC3",
+            "target": "LIR103_LIRC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT107A_PRTC3",
+            "target": "LIR103_LIRC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD115_CVDC3",
+            "target": "LAS102_LASC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC3",
+            "target": "PRT108B_PRTC3",
+            "value": 47,
+            "lineStyle": {
+                "normal": {
+                    "width": 23.75
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "PRT103_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD106_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC3",
+            "target": "DIF102_ANLC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC3",
+            "target": "LIR102_LIRC3",
+            "value": 38,
+            "lineStyle": {
+                "normal": {
+                    "width": 20.0
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC3",
+            "target": "CVD105_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF109_DIFC3",
+            "target": "SEL103_SELC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "DIF108_DIFC3",
+            "target": "SEL103_SELC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "DIF107_DIFC3",
+            "target": "SEL103_SELC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD114_CVDC3",
+            "target": "LAS102_LASC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "SEL101_SELC3",
+            "target": "INX101_INXC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF117_ANLC3",
+            "target": "ALD103_ALDC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC3",
+            "target": "CVD106_CVDC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "PRT107A_PRTC3",
+            "target": "LIR106_LIRC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC3",
+            "target": "PRT110_PRTC3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD103_CVDC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "DIF112_DIFC3",
+            "target": "SEL103_SELC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC3",
+            "target": "CVD104_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD105_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF116_ANLC3",
+            "target": "ALD103_ALDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "PRT108B_PRTC3",
+            "target": "LIR102_LIRC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT103_PRTC3",
+            "target": "LIR104_LIRC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC3",
+            "target": "CVD101_CVDC3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "PRT103_PRTC3",
+            "target": "LIR107_LIRC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD109_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC3",
+            "target": "CVD108_CVDC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC3",
+            "target": "CVD107_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "INX105_INXC3",
+            "target": "DIF114_ANLC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC3",
+            "target": "LIR107_LIRC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC3",
+            "target": "CVD112_CVDC3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD116_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC3",
+            "target": "CVD102_CVDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "INX107_INXC3",
+            "target": "DIF114_ANLC3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC3",
+            "target": "CVD116_CVDC3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD116_CVDC3",
+            "target": "LAS101_LASC3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC3",
+            "target": "INX107_INXC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "DIF115_ANLC3",
+            "target": "ALD101_ALDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC3",
+            "target": "DIF104_ANLC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF102_ANLC3",
+            "target": "ALD101_ALDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF101_ANLC3",
+            "target": "ALD101_ALDC3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC3",
+            "target": "CVD109_CVDC3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC4",
+            "target": "DIF107_DIFC4",
+            "value": 46,
+            "lineStyle": {
+                "normal": {
+                    "width": 23.333333333333332
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC4",
+            "target": "INX101_INXC4",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.666666666666666
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC4",
+            "target": "DIF104_ANLC4",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.833333333333334
+                }
+            }
+        },
+        {
+            "source": "DIF104_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC4",
+            "target": "CVD123_CAPC4",
+            "value": 25,
+            "lineStyle": {
+                "normal": {
+                    "width": 14.583333333333334
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC4",
+            "target": "CVD104_CVDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD104_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT109_PRTC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "PRT109_PRTC4",
+            "target": "LIR107_LIRC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC4",
+            "target": "DIF106_DIFC4",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.5
+                }
+            }
+        },
+        {
+            "source": "DIF106_DIFC4",
+            "target": "SEL102_SELC4",
+            "value": 30,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.666666666666668
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC4",
+            "target": "INX103_INXC4",
+            "value": 37,
+            "lineStyle": {
+                "normal": {
+                    "width": 19.583333333333332
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC4",
+            "target": "DIF114_ANLC4",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "DIF114_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC4",
+            "target": "CVD122_CAPC4",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD107_CVDC4",
+            "target": "LAS103_LASC4",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT103_PRTC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "PRT103_PRTC4",
+            "target": "LIR102_LIRC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC4",
+            "target": "DIF105_DIFC4",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.916666666666666
+                }
+            }
+        },
+        {
+            "source": "DIF105_DIFC4",
+            "target": "SEL102_SELC4",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.75
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC4",
+            "target": "INX102_INXC4",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.833333333333334
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC4",
+            "target": "DIF101_ANLC4",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "DIF101_ANLC4",
+            "target": "ALD103_ALDC4",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.333333333333334
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD127_CAPC4",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC4",
+            "target": "CVD106_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD106_CVDC4",
+            "target": "LAS103_LASC4",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT104_PRTC4",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC4",
+            "target": "LIR102_LIRC4",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.916666666666666
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC4",
+            "target": "DIF112_DIFC4",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "DIF112_DIFC4",
+            "target": "SEL102_SELC4",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.25
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC4",
+            "target": "DIF116_ANLC4",
+            "value": 25,
+            "lineStyle": {
+                "normal": {
+                    "width": 14.583333333333334
+                }
+            }
+        },
+        {
+            "source": "DIF116_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.416666666666668
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC4",
+            "target": "CVD127_CAPC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC4",
+            "target": "CVD107_CVDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD107_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT108A_PRTC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "PRT108A_PRTC4",
+            "target": "LIR107_LIRC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC4",
+            "target": "DIF105_DIFC4",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.333333333333334
+                }
+            }
+        },
+        {
+            "source": "DIF105_DIFC4",
+            "target": "SEL103_SELC4",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.5
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC4",
+            "target": "INX101_INXC4",
+            "value": 28,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.833333333333332
+                }
+            }
+        },
+        {
+            "source": "DIF104_ANLC4",
+            "target": "ALD103_ALDC4",
+            "value": 24,
+            "lineStyle": {
+                "normal": {
+                    "width": 14.166666666666666
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD125_CAPC4",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC4",
+            "target": "CVD102_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD102_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT101_PRTC4",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "PRT101_PRTC4",
+            "target": "LIR102_LIRC4",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.0
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC4",
+            "target": "DIF113_DIFC4",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "DIF113_DIFC4",
+            "target": "SEL103_SELC4",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "width": 17.5
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC4",
+            "target": "INX102_INXC4",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.75
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC4",
+            "target": "DIF104_ANLC4",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD126_CAPC4",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT101_PRTC4",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC4",
+            "target": "DIF112_DIFC4",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC4",
+            "target": "DIF116_ANLC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC4",
+            "target": "CVD124_CAPC4",
+            "value": 26,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.0
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC4",
+            "target": "CVD102_CVDC4",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.0
+                }
+            }
+        },
+        {
+            "source": "CVD102_CVDC4",
+            "target": "LAS103_LASC4",
+            "value": 28,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.833333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC4",
+            "target": "CVD108_CVDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD108_CVDC4",
+            "target": "LAS103_LASC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT105_PRTC4",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC4",
+            "target": "DIF102_ANLC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "DIF102_ANLC4",
+            "target": "ALD103_ALDC4",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD119_CAPC4",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.0
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC4",
+            "target": "CVD108_CVDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD108_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 18,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.666666666666666
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC4",
+            "target": "DIF113_DIFC4",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.916666666666666
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC4",
+            "target": "DIF101_ANLC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC4",
+            "target": "CVD105_CVDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD105_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "PRT101_PRTC4",
+            "target": "LIR106_LIRC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD128_CAPC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC4",
+            "target": "CVD108_CVDC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "SEL102_SELC4",
+            "target": "INX105_INXC4",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "INX105_INXC4",
+            "target": "DIF110_ANLC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "DIF110_ANLC4",
+            "target": "ALD101_ALDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "ALD101_ALDC4",
+            "target": "CVD117_CAPC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC4",
+            "target": "CVD115_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD115_CVDC4",
+            "target": "LAS101_LASC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC4",
+            "target": "PRT107A_PRTC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "PRT107A_PRTC4",
+            "target": "LIR104_LIRC4",
+            "value": 29,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.25
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC4",
+            "target": "DIF117_ANLC4",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.333333333333334
+                }
+            }
+        },
+        {
+            "source": "DIF117_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 28,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.833333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC4",
+            "target": "CVD102_CVDC4",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC4",
+            "target": "DIF101_ANLC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC4",
+            "target": "CVD101_CVDC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD101_CVDC4",
+            "target": "LAS103_LASC4",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.833333333333334
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC4",
+            "target": "CVD121_CAPC4",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.75
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC4",
+            "target": "CVD104_CVDC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT107B_PRTC4",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "PRT107B_PRTC4",
+            "target": "LIR104_LIRC4",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "width": 17.5
+                }
+            }
+        },
+        {
+            "source": "CVD103_CVDC4",
+            "target": "LAS103_LASC4",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.0
+                }
+            }
+        },
+        {
+            "source": "INX102_INXC4",
+            "target": "DIF103_ANLC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "DIF103_ANLC4",
+            "target": "ALD103_ALDC4",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.416666666666666
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD123_CAPC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD121_CAPC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC4",
+            "target": "CVD103_CVDC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC4",
+            "target": "CVD104_CVDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD127_CAPC4",
+            "target": "CVD108_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC4",
+            "target": "DIF108_DIFC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "DIF108_DIFC4",
+            "target": "SEL102_SELC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC4",
+            "target": "DIF103_ANLC4",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "DIF103_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD105_CVDC4",
+            "target": "LAS103_LASC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT107B_PRTC4",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.333333333333334
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC4",
+            "target": "DIF117_ANLC4",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD124_CAPC4",
+            "target": "CVD103_CVDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC4",
+            "target": "CVD109_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD109_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT106_PRTC4",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC4",
+            "target": "LIR106_LIRC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC4",
+            "target": "CVD112_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD112_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT102_PRTC4",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC4",
+            "target": "LIR102_LIRC4",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.166666666666668
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC4",
+            "target": "DIF115_ANLC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "DIF115_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.25
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC4",
+            "target": "CVD128_CAPC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC4",
+            "target": "CVD125_CAPC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC4",
+            "target": "LIR106_LIRC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "DIF110_ANLC4",
+            "target": "ALD103_ALDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD118_CAPC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD109_CVDC4",
+            "target": "LAS103_LASC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT108A_PRTC4",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC4",
+            "target": "CVD108_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALK102_ITXC4",
+            "target": "DIF106_DIFC4",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD106_CVDC4",
+            "target": "LAS101_LASC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC4",
+            "target": "PRT104_PRTC4",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "INX101_INXC4",
+            "target": "DIF102_ANLC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "DIF102_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD123_CAPC4",
+            "target": "CVD101_CVDC4",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.916666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD101_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC4",
+            "target": "CVD107_CVDC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT105_PRTC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "DIF113_DIFC4",
+            "target": "SEL102_SELC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC4",
+            "target": "DIF107_DIFC4",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC4",
+            "target": "DIF108_DIFC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "DIF108_DIFC4",
+            "target": "SEL101_SELC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "SEL101_SELC4",
+            "target": "INX105_INXC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "INX105_INXC4",
+            "target": "DIF111_ANLC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "DIF111_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC4",
+            "target": "CVD115_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD128_CAPC4",
+            "target": "CVD103_CVDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD103_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT104_PRTC4",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.333333333333332
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC4",
+            "target": "INX103_INXC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD126_CAPC4",
+            "target": "CVD108_CVDC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD114_CVDC4",
+            "target": "LAS101_LASC4",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC4",
+            "target": "CVD102_CVDC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "CVD104_CVDC4",
+            "target": "LAS103_LASC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT102_PRTC4",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.083333333333334
+                }
+            }
+        },
+        {
+            "source": "DIF111_ANLC4",
+            "target": "ALD101_ALDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "ALD101_ALDC4",
+            "target": "CVD118_CAPC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT108B_PRTC4",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "PRT108B_PRTC4",
+            "target": "LIR107_LIRC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC4",
+            "target": "DIF115_ANLC4",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.583333333333332
+                }
+            }
+        },
+        {
+            "source": "CVD106_CVDC4",
+            "target": "LAS102_LASC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "ALK101_ITXC4",
+            "target": "DIF109_DIFC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "SEL103_SELC4",
+            "target": "INX105_INXC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD118_CAPC4",
+            "target": "CVD114_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT108B_PRTC4",
+            "target": "LIR106_LIRC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD121_CAPC4",
+            "target": "CVD102_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT108A_PRTC4",
+            "target": "LIR106_LIRC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT106_PRTC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC4",
+            "target": "LIR102_LIRC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT108B_PRTC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC4",
+            "target": "CVD101_CVDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT107A_PRTC4",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.5
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC4",
+            "target": "LIR102_LIRC4",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.666666666666666
+                }
+            }
+        },
+        {
+            "source": "INX103_INXC4",
+            "target": "DIF111_ANLC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT106_PRTC4",
+            "target": "LIR107_LIRC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT105_PRTC4",
+            "target": "LIR107_LIRC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD120_CAPC4",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.5
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC4",
+            "target": "CVD108_CVDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "PRT104_PRTC4",
+            "target": "LIR107_LIRC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC4",
+            "target": "CVD117_CAPC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD117_CAPC4",
+            "target": "CVD114_CVDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC4",
+            "target": "PRT108A_PRTC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD125_CAPC4",
+            "target": "CVD106_CVDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD120_CAPC4",
+            "target": "CVD107_CVDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC4",
+            "target": "CVD105_CVDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "CVD122_CAPC4",
+            "target": "CVD103_CVDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "DIF111_ANLC4",
+            "target": "ALD103_ALDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC4",
+            "target": "LIR106_LIRC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "LAS101_LASC4",
+            "target": "PRT102_PRTC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "CVD119_CAPC4",
+            "target": "CVD107_CVDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "CVD101_CVDC4",
+            "target": "LAS101_LASC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF101_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALD102_ALDC4",
+            "target": "CVD120_CAPC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "DIF115_ANLC4",
+            "target": "ALD103_ALDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "PRT102_PRTC4",
+            "target": "LIR107_LIRC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD117_CAPC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "LAS103_LASC4",
+            "target": "PRT110_PRTC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "PRT110_PRTC4",
+            "target": "LIR107_LIRC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF114_ANLC4",
+            "target": "ALD103_ALDC4",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.833333333333333
+                }
+            }
+        },
+        {
+            "source": "LAS102_LASC4",
+            "target": "PRT107A_PRTC4",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.25
+                }
+            }
+        },
+        {
+            "source": "PRT110_PRTC4",
+            "target": "LIR106_LIRC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "DIF116_ANLC4",
+            "target": "ALD103_ALDC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "ALD103_ALDC4",
+            "target": "CVD122_CAPC4",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.416666666666667
+                }
+            }
+        },
+        {
+            "source": "INX104_INXC4",
+            "target": "DIF110_ANLC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        },
+        {
+            "source": "DIF110_ANLC4",
+            "target": "ALD102_ALDC4",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 5
+                }
+            }
+        }
+    ],
+    "categories": [
+        {
+            "name": "C3"
+        },
+        {
+            "name": "C4"
+        }
+    ]
+}
