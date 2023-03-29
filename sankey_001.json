@@ -78,41 +78,6 @@
       "value": 186.0
     },
     {
-      "source": "客戶名稱_優聖",
-      "target": "業務人員_other:業務人員",
-      "value": 178.0
-    },
-    {
-      "source": "客戶名稱_優聖",
-      "target": "業務人員_吳怡琴",
-      "value": 10.0
-    },
-    {
-      "source": "客戶名稱_優聖",
-      "target": "業務人員_王怡如",
-      "value": 28.0
-    },
-    {
-      "source": "客戶名稱_優聖",
-      "target": "業務人員_陳春鴻",
-      "value": 16.0
-    },
-    {
-      "source": "客戶名稱_昌洪捷",
-      "target": "業務人員_other:業務人員",
-      "value": 172.0
-    },
-    {
-      "source": "客戶名稱_高寶",
-      "target": "業務人員_other:業務人員",
-      "value": 154.0
-    },
-    {
-      "source": "客戶名稱_高寶",
-      "target": "業務人員_王怡如",
-      "value": 18.0
-    },
-    {
       "source": "業務人員_other:業務人員",
       "target": "專案狀態_進行中",
       "value": 28.0
