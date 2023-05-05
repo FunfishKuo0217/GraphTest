@@ -4,10 +4,9 @@
             "name": "ALK101C1",
             "x": 50,
             "y": 406,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.43,
             "category": "C1"
@@ -16,10 +15,9 @@
             "name": "DIF108C1",
             "x": 175,
             "y": 488,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.5,
             "category": "C1"
@@ -28,10 +26,9 @@
             "name": "SEL101C1",
             "x": 300,
             "y": 365,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C1"
@@ -40,10 +37,9 @@
             "name": "INX105C1",
             "x": 425,
             "y": 655,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)",
-                "borderColor": "rgb(255, 255, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 1.0)"
             },
             "value": 0.6,
             "category": "C1"
@@ -52,10 +48,9 @@
             "name": "DIF110C1",
             "x": 550,
             "y": 515,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 0.67,
             "category": "C1"
@@ -64,10 +59,9 @@
             "name": "ALD103C1",
             "x": 675,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.23,
             "category": "C1"
@@ -76,10 +70,9 @@
             "name": "CVD119C1",
             "x": 800,
             "y": 390,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.5)",
-                "borderColor": "rgb(178, 48, 9, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 0.5)"
             },
             "value": 0.5,
             "category": "C1"
@@ -88,10 +81,9 @@
             "name": "CVD112C1",
             "x": 925,
             "y": 640,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C1"
@@ -100,10 +92,9 @@
             "name": "LAS102C1",
             "x": 1050,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)",
-                "borderColor": "rgb(255, 255, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 1.0)"
             },
             "value": 0.29,
             "category": "C1"
@@ -112,10 +103,9 @@
             "name": "PRT104C1",
             "x": 1175,
             "y": 405,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 1.0,
             "category": "C1"
@@ -124,10 +114,9 @@
             "name": "LIR102C1",
             "x": 1300,
             "y": 323,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.33,
             "category": "C1"
@@ -136,10 +125,9 @@
             "name": "ALK102C1",
             "x": 50,
             "y": 572,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.6666666666666666)",
-                "borderColor": "rgb(255, 0, 0, 0.6666666666666666)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.6666666666666666)"
             },
             "value": 0.15,
             "category": "C1"
@@ -148,10 +136,9 @@
             "name": "DIF105C1",
             "x": 175,
             "y": 302,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.2,
             "category": "C1"
@@ -160,10 +147,9 @@
             "name": "SEL102C1",
             "x": 300,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.29,
             "category": "C1"
@@ -172,10 +158,9 @@
             "name": "INX101C1",
             "x": 425,
             "y": 323,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.6666666666666666)",
-                "borderColor": "rgb(255, 255, 0, 0.6666666666666666)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.6666666666666666)"
             },
             "value": 0.5,
             "category": "C1"
@@ -184,10 +169,9 @@
             "name": "DIF101C1",
             "x": 550,
             "y": 295,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.25,
             "category": "C1"
@@ -196,10 +180,9 @@
             "name": "CVD127C1",
             "x": 800,
             "y": 690,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.5)",
-                "borderColor": "rgb(178, 48, 9, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 0.5)"
             },
             "value": 0.5,
             "category": "C1"
@@ -208,10 +191,9 @@
             "name": "CVD106C1",
             "x": 925,
             "y": 440,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 1.0,
             "category": "C1"
@@ -220,10 +202,9 @@
             "name": "PRT102C1",
             "x": 1175,
             "y": 350,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 0.4,
             "category": "C1"
@@ -232,10 +213,9 @@
             "name": "DIF112C1",
             "x": 175,
             "y": 612,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.5,
             "category": "C1"
@@ -244,10 +224,9 @@
             "name": "ALD101C1",
             "x": 675,
             "y": 365,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.3333333333333333)",
-                "borderColor": "rgb(255, 0, 0, 0.3333333333333333)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.3333333333333333)"
             },
             "value": 0.5,
             "category": "C1"
@@ -256,10 +235,9 @@
             "name": "CVD118C1",
             "x": 800,
             "y": 340,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 1.0,
             "category": "C1"
@@ -268,10 +246,9 @@
             "name": "CVD104C1",
             "x": 925,
             "y": 340,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C1"
@@ -280,10 +257,9 @@
             "name": "PRT107AC1",
             "x": 1175,
             "y": 570,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 1.0,
             "category": "C1"
@@ -292,10 +268,9 @@
             "name": "LIR104C1",
             "x": 1300,
             "y": 489,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.3333333333333333)",
-                "borderColor": "rgb(255, 0, 0, 0.3333333333333333)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.3333333333333333)"
             },
             "value": 1.0,
             "category": "C1"
@@ -304,10 +279,9 @@
             "name": "DIF109C1",
             "x": 175,
             "y": 550,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.5,
             "category": "C1"
@@ -316,10 +290,9 @@
             "name": "DIF111C1",
             "x": 550,
             "y": 570,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.5,
             "category": "C1"
@@ -328,10 +301,9 @@
             "name": "ALD102C1",
             "x": 675,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.3333333333333333)",
-                "borderColor": "rgb(255, 0, 0, 0.3333333333333333)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.3333333333333333)"
             },
             "value": 0.2,
             "category": "C1"
@@ -340,10 +312,9 @@
             "name": "CVD114C1",
             "x": 925,
             "y": 690,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C1"
@@ -352,10 +323,9 @@
             "name": "LAS101C1",
             "x": 1050,
             "y": 365,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.25)",
-                "borderColor": "rgb(255, 255, 0, 0.25)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.25)"
             },
             "value": 0.5,
             "category": "C1"
@@ -364,10 +334,9 @@
             "name": "DIF113C1",
             "x": 175,
             "y": 674,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.14,
             "category": "C1"
@@ -376,10 +345,9 @@
             "name": "SEL103C1",
             "x": 300,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 0.5)",
-                "borderColor": "rgb(255, 128, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 0.5)"
             },
             "value": 0.11,
             "category": "C1"
@@ -388,10 +356,9 @@
             "name": "DIF103C1",
             "x": 550,
             "y": 405,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.33,
             "category": "C1"
@@ -400,10 +367,9 @@
             "name": "CVD126C1",
             "x": 800,
             "y": 640,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.5)",
-                "borderColor": "rgb(178, 48, 9, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 0.5)"
             },
             "value": 0.25,
             "category": "C1"
@@ -412,10 +378,9 @@
             "name": "CVD105C1",
             "x": 925,
             "y": 390,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 1.0,
             "category": "C1"
@@ -424,10 +389,9 @@
             "name": "LIR106C1",
             "x": 1300,
             "y": 572,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.3333333333333333)",
-                "borderColor": "rgb(255, 0, 0, 0.3333333333333333)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.3333333333333333)"
             },
             "value": 0.2,
             "category": "C1"
@@ -436,10 +400,9 @@
             "name": "ALK102C2",
             "x": 50,
             "y": 572,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.31,
             "category": "C2"
@@ -448,10 +411,9 @@
             "name": "DIF107C2",
             "x": 175,
             "y": 426,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 1.0,
             "category": "C2"
@@ -460,10 +422,9 @@
             "name": "SEL102C2",
             "x": 300,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.29,
             "category": "C2"
@@ -472,10 +433,9 @@
             "name": "INX104C2",
             "x": 425,
             "y": 572,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.5)",
-                "borderColor": "rgb(255, 255, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.5)"
             },
             "value": 1.0,
             "category": "C2"
@@ -484,10 +444,9 @@
             "name": "DIF115C2",
             "x": 550,
             "y": 680,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 1.0,
             "category": "C2"
@@ -496,10 +455,9 @@
             "name": "ALD102C2",
             "x": 675,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.4,
             "category": "C2"
@@ -508,10 +466,9 @@
             "name": "CVD124C2",
             "x": 800,
             "y": 540,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 1.0,
             "category": "C2"
@@ -520,10 +477,9 @@
             "name": "CVD101C2",
             "x": 925,
             "y": 240,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 1.0,
             "category": "C2"
@@ -532,10 +488,9 @@
             "name": "LAS102C2",
             "x": 1050,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)",
-                "borderColor": "rgb(255, 255, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 1.0)"
             },
             "value": 0.14,
             "category": "C2"
@@ -544,10 +499,9 @@
             "name": "PRT102C2",
             "x": 1175,
             "y": 350,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.2,
             "category": "C2"
@@ -556,10 +510,9 @@
             "name": "LIR102C2",
             "x": 1300,
             "y": 323,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.22,
             "category": "C2"
@@ -568,10 +521,9 @@
             "name": "DIF108C2",
             "x": 175,
             "y": 488,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -580,10 +532,9 @@
             "name": "SEL101C2",
             "x": 300,
             "y": 365,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -592,10 +543,9 @@
             "name": "INX105C2",
             "x": 425,
             "y": 655,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)",
-                "borderColor": "rgb(255, 255, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 1.0)"
             },
             "value": 0.4,
             "category": "C2"
@@ -604,10 +554,9 @@
             "name": "DIF110C2",
             "x": 550,
             "y": 515,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 0.33,
             "category": "C2"
@@ -616,10 +565,9 @@
             "name": "CVD127C2",
             "x": 800,
             "y": 690,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -628,10 +576,9 @@
             "name": "CVD109C2",
             "x": 925,
             "y": 590,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -640,10 +587,9 @@
             "name": "LAS103C2",
             "x": 1050,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)",
-                "borderColor": "rgb(255, 255, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -652,10 +598,9 @@
             "name": "PRT108BC2",
             "x": 1175,
             "y": 680,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 1.0,
             "category": "C2"
@@ -664,10 +609,9 @@
             "name": "LIR106C2",
             "x": 1300,
             "y": 572,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.5)",
-                "borderColor": "rgb(255, 0, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.5)"
             },
             "value": 0.2,
             "category": "C2"
@@ -676,10 +620,9 @@
             "name": "ALK101C2",
             "x": 50,
             "y": 406,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.25)",
-                "borderColor": "rgb(255, 0, 0, 0.25)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.25)"
             },
             "value": 0.14,
             "category": "C2"
@@ -688,10 +631,9 @@
             "name": "DIF109C2",
             "x": 175,
             "y": 550,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -700,10 +642,9 @@
             "name": "DIF111C2",
             "x": 550,
             "y": 570,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -712,10 +653,9 @@
             "name": "ALD101C2",
             "x": 675,
             "y": 365,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.5)",
-                "borderColor": "rgb(255, 0, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.5)"
             },
             "value": 0.5,
             "category": "C2"
@@ -724,10 +664,9 @@
             "name": "CVD117C2",
             "x": 800,
             "y": 290,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 1.0,
             "category": "C2"
@@ -736,10 +675,9 @@
             "name": "CVD114C2",
             "x": 925,
             "y": 690,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -748,10 +686,9 @@
             "name": "LAS101C2",
             "x": 1050,
             "y": 365,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.5)",
-                "borderColor": "rgb(255, 255, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.5)"
             },
             "value": 0.5,
             "category": "C2"
@@ -760,10 +697,9 @@
             "name": "LIR107C2",
             "x": 1300,
             "y": 655,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.67,
             "category": "C2"
@@ -772,10 +708,9 @@
             "name": "DIF113C2",
             "x": 175,
             "y": 674,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.14,
             "category": "C2"
@@ -784,10 +719,9 @@
             "name": "SEL103C2",
             "x": 300,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 0.5)",
-                "borderColor": "rgb(255, 128, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 0.5)"
             },
             "value": 0.11,
             "category": "C2"
@@ -796,10 +730,9 @@
             "name": "INX102C2",
             "x": 425,
             "y": 406,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.5)",
-                "borderColor": "rgb(255, 255, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.5)"
             },
             "value": 0.12,
             "category": "C2"
@@ -808,10 +741,9 @@
             "name": "DIF104C2",
             "x": 550,
             "y": 460,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 0.33,
             "category": "C2"
@@ -820,10 +752,9 @@
             "name": "ALD103C2",
             "x": 675,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.15,
             "category": "C2"
@@ -832,10 +763,9 @@
             "name": "CVD125C2",
             "x": 800,
             "y": 590,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.33,
             "category": "C2"
@@ -844,10 +774,9 @@
             "name": "CVD112C2",
             "x": 925,
             "y": 640,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -856,10 +785,9 @@
             "name": "PRT105C2",
             "x": 1175,
             "y": 460,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.5,
             "category": "C2"
@@ -868,10 +796,9 @@
             "name": "DIF106C2",
             "x": 175,
             "y": 364,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 1.0,
             "category": "C2"
@@ -880,10 +807,9 @@
             "name": "INX103C2",
             "x": 425,
             "y": 489,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.5)",
-                "borderColor": "rgb(255, 255, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.5)"
             },
             "value": 0.5,
             "category": "C2"
@@ -892,10 +818,9 @@
             "name": "DIF114C2",
             "x": 550,
             "y": 625,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -904,10 +829,9 @@
             "name": "CVD121C2",
             "x": 800,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -916,10 +840,9 @@
             "name": "CVD104C2",
             "x": 925,
             "y": 340,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C2"
@@ -928,10 +851,9 @@
             "name": "PRT101C2",
             "x": 1175,
             "y": 295,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.25,
             "category": "C2"
@@ -940,10 +862,9 @@
             "name": "ALK102C3",
             "x": 50,
             "y": 572,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.23,
             "category": "C3"
@@ -952,10 +873,9 @@
             "name": "DIF105C3",
             "x": 175,
             "y": 302,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.6666666666666666)",
-                "borderColor": "rgb(178, 48, 9, 0.6666666666666666)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 0.6666666666666666)"
             },
             "value": 0.4,
             "category": "C3"
@@ -964,10 +884,9 @@
             "name": "SEL102C3",
             "x": 300,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 0.6666666666666666)",
-                "borderColor": "rgb(255, 128, 0, 0.6666666666666666)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 0.6666666666666666)"
             },
             "value": 0.29,
             "category": "C3"
@@ -976,10 +895,9 @@
             "name": "INX101C3",
             "x": 425,
             "y": 323,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.25)",
-                "borderColor": "rgb(255, 255, 0, 0.25)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.25)"
             },
             "value": 0.25,
             "category": "C3"
@@ -988,10 +906,9 @@
             "name": "DIF102C3",
             "x": 550,
             "y": 350,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 1.0,
             "category": "C3"
@@ -1000,10 +917,9 @@
             "name": "ALD102C3",
             "x": 675,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.25)",
-                "borderColor": "rgb(255, 0, 0, 0.25)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.25)"
             },
             "value": 0.2,
             "category": "C3"
@@ -1012,10 +928,9 @@
             "name": "CVD120C3",
             "x": 800,
             "y": 440,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.67,
             "category": "C3"
@@ -1024,10 +939,9 @@
             "name": "CVD108C3",
             "x": 925,
             "y": 540,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.75,
             "category": "C3"
@@ -1036,10 +950,9 @@
             "name": "LAS102C3",
             "x": 1050,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)",
-                "borderColor": "rgb(255, 255, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 1.0)"
             },
             "value": 0.29,
             "category": "C3"
@@ -1048,10 +961,9 @@
             "name": "PRT108AC3",
             "x": 1175,
             "y": 625,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 1.0,
             "category": "C3"
@@ -1060,10 +972,9 @@
             "name": "LIR106C3",
             "x": 1300,
             "y": 572,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.4,
             "category": "C3"
@@ -1072,10 +983,9 @@
             "name": "ALK101C3",
             "x": 50,
             "y": 406,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.6666666666666666)",
-                "borderColor": "rgb(255, 0, 0, 0.6666666666666666)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.6666666666666666)"
             },
             "value": 0.29,
             "category": "C3"
@@ -1084,10 +994,9 @@
             "name": "DIF113C3",
             "x": 175,
             "y": 674,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.43,
             "category": "C3"
@@ -1096,10 +1005,9 @@
             "name": "SEL103C3",
             "x": 300,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.33,
             "category": "C3"
@@ -1108,10 +1016,9 @@
             "name": "INX102C3",
             "x": 425,
             "y": 406,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)",
-                "borderColor": "rgb(255, 255, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C3"
@@ -1120,10 +1027,9 @@
             "name": "DIF103C3",
             "x": 550,
             "y": 405,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.33,
             "category": "C3"
@@ -1132,10 +1038,9 @@
             "name": "ALD103C3",
             "x": 675,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.31,
             "category": "C3"
@@ -1144,10 +1049,9 @@
             "name": "CVD119C3",
             "x": 800,
             "y": 390,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.5)",
-                "borderColor": "rgb(178, 48, 9, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 0.5)"
             },
             "value": 0.5,
             "category": "C3"
@@ -1156,10 +1060,9 @@
             "name": "CVD107C3",
             "x": 925,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 0.6666666666666666)",
-                "borderColor": "rgb(255, 128, 0, 0.6666666666666666)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 0.6666666666666666)"
             },
             "value": 0.5,
             "category": "C3"
@@ -1168,10 +1071,9 @@
             "name": "LAS103C3",
             "x": 1050,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.25)",
-                "borderColor": "rgb(255, 255, 0, 0.25)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.25)"
             },
             "value": 0.25,
             "category": "C3"
@@ -1180,10 +1082,9 @@
             "name": "DIF101C3",
             "x": 550,
             "y": 295,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 0.5,
             "category": "C3"
@@ -1192,10 +1093,9 @@
             "name": "CVD121C3",
             "x": 800,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.5)",
-                "borderColor": "rgb(178, 48, 9, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 0.5)"
             },
             "value": 0.5,
             "category": "C3"
@@ -1204,10 +1104,9 @@
             "name": "PRT101C3",
             "x": 1175,
             "y": 295,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.25,
             "category": "C3"
@@ -1216,10 +1115,9 @@
             "name": "LIR103C3",
             "x": 1300,
             "y": 406,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.5)",
-                "borderColor": "rgb(255, 0, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.5)"
             },
             "value": 0.5,
             "category": "C3"
@@ -1228,10 +1126,9 @@
             "name": "CVD126C3",
             "x": 800,
             "y": 640,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.5)",
-                "borderColor": "rgb(178, 48, 9, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 0.5)"
             },
             "value": 0.25,
             "category": "C3"
@@ -1240,10 +1137,9 @@
             "name": "PRT102C3",
             "x": 1175,
             "y": 350,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.2,
             "category": "C3"
@@ -1252,10 +1148,9 @@
             "name": "LIR102C3",
             "x": 1300,
             "y": 323,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.22,
             "category": "C3"
@@ -1264,10 +1159,9 @@
             "name": "PRT106C3",
             "x": 1175,
             "y": 515,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.5,
             "category": "C3"
@@ -1276,10 +1170,9 @@
             "name": "ALK101C4",
             "x": 50,
             "y": 406,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.25)",
-                "borderColor": "rgb(255, 0, 0, 0.25)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.25)"
             },
             "value": 0.14,
             "category": "C4"
@@ -1288,10 +1181,9 @@
             "name": "DIF105C4",
             "x": 175,
             "y": 302,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.4,
             "category": "C4"
@@ -1300,10 +1192,9 @@
             "name": "SEL103C4",
             "x": 300,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.44,
             "category": "C4"
@@ -1312,10 +1203,9 @@
             "name": "INX102C4",
             "x": 425,
             "y": 406,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)",
-                "borderColor": "rgb(255, 255, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 1.0)"
             },
             "value": 0.38,
             "category": "C4"
@@ -1324,10 +1214,9 @@
             "name": "DIF104C4",
             "x": 550,
             "y": 460,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 0.67,
             "category": "C4"
@@ -1336,10 +1225,9 @@
             "name": "ALD103C4",
             "x": 675,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.31,
             "category": "C4"
@@ -1348,10 +1236,9 @@
             "name": "CVD126C4",
             "x": 800,
             "y": 640,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1360,10 +1247,9 @@
             "name": "CVD107C4",
             "x": 925,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)",
-                "borderColor": "rgb(255, 128, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 1.0)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1372,10 +1258,9 @@
             "name": "LAS102C4",
             "x": 1050,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)",
-                "borderColor": "rgb(255, 255, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 1.0)"
             },
             "value": 0.29,
             "category": "C4"
@@ -1384,10 +1269,9 @@
             "name": "PRT101C4",
             "x": 1175,
             "y": 295,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)",
-                "borderColor": "rgb(34, 139, 34, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 1.0)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1396,10 +1280,9 @@
             "name": "LIR103C4",
             "x": 1300,
             "y": 406,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.5)",
-                "borderColor": "rgb(255, 0, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.5)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1408,10 +1291,9 @@
             "name": "ALK102C4",
             "x": 50,
             "y": 572,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.31,
             "category": "C4"
@@ -1420,10 +1302,9 @@
             "name": "DIF112C4",
             "x": 175,
             "y": 612,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.5)",
-                "borderColor": "rgb(178, 48, 9, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 0.5)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1432,10 +1313,9 @@
             "name": "SEL102C4",
             "x": 300,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 0.25)",
-                "borderColor": "rgb(255, 128, 0, 0.25)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 0.25)"
             },
             "value": 0.14,
             "category": "C4"
@@ -1444,10 +1324,9 @@
             "name": "INX103C4",
             "x": 425,
             "y": 489,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.3333333333333333)",
-                "borderColor": "rgb(255, 255, 0, 0.3333333333333333)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.3333333333333333)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1456,10 +1335,9 @@
             "name": "DIF114C4",
             "x": 550,
             "y": 625,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1468,10 +1346,9 @@
             "name": "ALD102C4",
             "x": 675,
             "y": 490,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.25)",
-                "borderColor": "rgb(255, 0, 0, 0.25)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.25)"
             },
             "value": 0.2,
             "category": "C4"
@@ -1480,10 +1357,9 @@
             "name": "CVD125C4",
             "x": 800,
             "y": 590,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.67,
             "category": "C4"
@@ -1492,10 +1368,9 @@
             "name": "CVD102C4",
             "x": 925,
             "y": 290,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 0.5)",
-                "borderColor": "rgb(255, 128, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 0.5)"
             },
             "value": 1.0,
             "category": "C4"
@@ -1504,10 +1379,9 @@
             "name": "LAS103C4",
             "x": 1050,
             "y": 615,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.25)",
-                "borderColor": "rgb(255, 255, 0, 0.25)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.25)"
             },
             "value": 0.25,
             "category": "C4"
@@ -1516,10 +1390,9 @@
             "name": "PRT105C4",
             "x": 1175,
             "y": 460,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1528,10 +1401,9 @@
             "name": "LIR106C4",
             "x": 1300,
             "y": 572,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.5)",
-                "borderColor": "rgb(255, 0, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.5)"
             },
             "value": 0.2,
             "category": "C4"
@@ -1540,10 +1412,9 @@
             "name": "DIF113C4",
             "x": 175,
             "y": 674,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)",
-                "borderColor": "rgb(178, 48, 9, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 1.0)"
             },
             "value": 0.29,
             "category": "C4"
@@ -1552,10 +1423,9 @@
             "name": "DIF103C4",
             "x": 550,
             "y": 405,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.33,
             "category": "C4"
@@ -1564,10 +1434,9 @@
             "name": "CVD120C4",
             "x": 800,
             "y": 440,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.5)",
-                "borderColor": "rgb(178, 48, 9, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(178, 48, 9, 0.5)"
             },
             "value": 0.33,
             "category": "C4"
@@ -1576,10 +1445,9 @@
             "name": "LIR102C4",
             "x": 1300,
             "y": 323,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)",
-                "borderColor": "rgb(255, 0, 0, 1.0)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 1.0)"
             },
             "value": 0.22,
             "category": "C4"
@@ -1588,10 +1456,9 @@
             "name": "INX101C4",
             "x": 425,
             "y": 323,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.3333333333333333)",
-                "borderColor": "rgb(255, 255, 0, 0.3333333333333333)",
-                "borderWidth": 10
+                "color": "rgb(255, 255, 0, 0.3333333333333333)"
             },
             "value": 0.25,
             "category": "C4"
@@ -1600,10 +1467,9 @@
             "name": "DIF101C4",
             "x": 550,
             "y": 295,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.25,
             "category": "C4"
@@ -1612,10 +1478,9 @@
             "name": "CVD108C4",
             "x": 925,
             "y": 540,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 0.5)",
-                "borderColor": "rgb(255, 128, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 0.5)"
             },
             "value": 0.25,
             "category": "C4"
@@ -1624,10 +1489,9 @@
             "name": "PRT106C4",
             "x": 1175,
             "y": 515,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1636,10 +1500,9 @@
             "name": "LIR107C4",
             "x": 1300,
             "y": 655,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 0.5)",
-                "borderColor": "rgb(255, 0, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 0, 0, 0.5)"
             },
             "value": 0.33,
             "category": "C4"
@@ -1648,10 +1511,9 @@
             "name": "CVD109C4",
             "x": 925,
             "y": 590,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 0.5)",
-                "borderColor": "rgb(255, 128, 0, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(255, 128, 0, 0.5)"
             },
             "value": 0.5,
             "category": "C4"
@@ -1660,10 +1522,9 @@
             "name": "PRT102C4",
             "x": 1175,
             "y": 350,
+            "symbolSize": 50,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 0.5)",
-                "borderColor": "rgb(34, 139, 34, 0.5)",
-                "borderWidth": 10
+                "color": "rgb(34, 139, 34, 0.5)"
             },
             "value": 0.2,
             "category": "C4"
