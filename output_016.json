@@ -6,9 +6,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.29,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -17,9 +17,9 @@
             "y": 550,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9666666666666667)"
             },
-            "value": 0.5,
+            "value": 29.0,
             "category": "C1"
         },
         {
@@ -28,9 +28,9 @@
             "y": 365,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -39,9 +39,9 @@
             "y": 655,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -50,9 +50,9 @@
             "y": 570,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -61,9 +61,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -72,9 +72,9 @@
             "y": 340,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.7029702970297029)"
             },
-            "value": 0.5,
+            "value": 71.0,
             "category": "C1"
         },
         {
@@ -83,9 +83,9 @@
             "y": 690,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -94,9 +94,9 @@
             "y": 365,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -105,9 +105,9 @@
             "y": 405,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -116,9 +116,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.11,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -127,9 +127,9 @@
             "y": 674,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -138,9 +138,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.11,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -149,9 +149,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -160,9 +160,9 @@
             "y": 405,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -171,9 +171,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -182,9 +182,9 @@
             "y": 640,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9900990099009901)"
             },
-            "value": 0.25,
+            "value": 100.0,
             "category": "C1"
         },
         {
@@ -193,9 +193,9 @@
             "y": 390,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -204,9 +204,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.8888888888888888)"
             },
-            "value": 0.07,
+            "value": 8.0,
             "category": "C1"
         },
         {
@@ -215,9 +215,9 @@
             "y": 350,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -226,9 +226,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C1"
         },
         {
@@ -237,9 +237,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.15,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -248,9 +248,9 @@
             "y": 612,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -259,9 +259,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -270,9 +270,9 @@
             "y": 489,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.9925373134328358)"
             },
-            "value": 0.5,
+            "value": 133.0,
             "category": "C10"
         },
         {
@@ -281,9 +281,9 @@
             "y": 625,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.875)"
             },
-            "value": 0.5,
+            "value": 7.0,
             "category": "C10"
         },
         {
@@ -292,9 +292,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -303,9 +303,9 @@
             "y": 590,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9836065573770492)"
             },
-            "value": 0.33,
+            "value": 60.0,
             "category": "C10"
         },
         {
@@ -314,9 +314,9 @@
             "y": 290,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -325,9 +325,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -336,9 +336,9 @@
             "y": 460,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -347,9 +347,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -358,9 +358,9 @@
             "y": 302,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -369,9 +369,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.11,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -380,9 +380,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -391,9 +391,9 @@
             "y": 295,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.75)"
             },
-            "value": 0.25,
+            "value": 6.0,
             "category": "C10"
         },
         {
@@ -402,9 +402,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -413,9 +413,9 @@
             "y": 640,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.7213114754098361)"
             },
-            "value": 0.25,
+            "value": 44.0,
             "category": "C10"
         },
         {
@@ -424,9 +424,9 @@
             "y": 540,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.9902912621359223)"
             },
-            "value": 0.25,
+            "value": 102.0,
             "category": "C10"
         },
         {
@@ -435,9 +435,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.07,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -446,9 +446,9 @@
             "y": 515,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.75)"
             },
-            "value": 0.5,
+            "value": 3.0,
             "category": "C10"
         },
         {
@@ -457,9 +457,9 @@
             "y": 655,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C10"
         },
         {
@@ -468,9 +468,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -479,9 +479,9 @@
             "y": 488,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9655172413793104)"
             },
-            "value": 0.5,
+            "value": 28.0,
             "category": "C2"
         },
         {
@@ -490,9 +490,9 @@
             "y": 365,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -501,9 +501,9 @@
             "y": 655,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.4,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -512,9 +512,9 @@
             "y": 515,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.67,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -523,9 +523,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -534,9 +534,9 @@
             "y": 390,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -545,9 +545,9 @@
             "y": 640,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -556,9 +556,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -567,9 +567,9 @@
             "y": 405,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -578,9 +578,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.11,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -589,9 +589,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -600,9 +600,9 @@
             "y": 612,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -611,9 +611,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -622,9 +622,9 @@
             "y": 365,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -633,9 +633,9 @@
             "y": 340,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9722222222222222)"
             },
-            "value": 0.5,
+            "value": 35.0,
             "category": "C2"
         },
         {
@@ -644,9 +644,9 @@
             "y": 340,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -655,9 +655,9 @@
             "y": 570,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C2"
         },
         {
@@ -666,9 +666,9 @@
             "y": 489,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.75)"
             },
-            "value": 1.0,
+            "value": 3.0,
             "category": "C2"
         },
         {
@@ -677,9 +677,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.15,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -688,9 +688,9 @@
             "y": 426,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -699,9 +699,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.29,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -710,9 +710,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -721,9 +721,9 @@
             "y": 680,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -732,9 +732,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -743,9 +743,9 @@
             "y": 540,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -754,9 +754,9 @@
             "y": 240,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -765,9 +765,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -776,9 +776,9 @@
             "y": 350,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.4,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -787,9 +787,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.6)"
             },
-            "value": 0.22,
+            "value": 1.5,
             "category": "C3"
         },
         {
@@ -798,9 +798,9 @@
             "y": 302,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -809,9 +809,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -820,9 +820,9 @@
             "y": 295,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -831,9 +831,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -842,9 +842,9 @@
             "y": 690,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -853,9 +853,9 @@
             "y": 440,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C3"
         },
         {
@@ -864,9 +864,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -875,9 +875,9 @@
             "y": 488,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -886,9 +886,9 @@
             "y": 365,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -897,9 +897,9 @@
             "y": 655,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.4,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -908,9 +908,9 @@
             "y": 515,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -919,9 +919,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -930,9 +930,9 @@
             "y": 690,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -941,9 +941,9 @@
             "y": 590,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -952,9 +952,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -963,9 +963,9 @@
             "y": 680,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.8181818181818182)"
             },
-            "value": 1.0,
+            "value": 4.5,
             "category": "C4"
         },
         {
@@ -974,9 +974,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.5)"
             },
-            "value": 0.2,
+            "value": 1.0,
             "category": "C4"
         },
         {
@@ -985,9 +985,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -996,9 +996,9 @@
             "y": 550,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -1007,9 +1007,9 @@
             "y": 570,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -1018,9 +1018,9 @@
             "y": 365,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -1029,9 +1029,9 @@
             "y": 290,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -1040,9 +1040,9 @@
             "y": 690,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -1051,9 +1051,9 @@
             "y": 365,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -1062,9 +1062,9 @@
             "y": 655,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C4"
         },
         {
@@ -1073,9 +1073,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.9259259259259259)"
             },
-            "value": 0.15,
+            "value": 12.5,
             "category": "C5"
         },
         {
@@ -1084,9 +1084,9 @@
             "y": 674,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1095,9 +1095,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.11,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1106,9 +1106,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.12,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1117,9 +1117,9 @@
             "y": 460,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1128,9 +1128,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.15,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1139,9 +1139,9 @@
             "y": 590,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.7352941176470589)"
             },
-            "value": 0.33,
+            "value": 100.0,
             "category": "C5"
         },
         {
@@ -1150,9 +1150,9 @@
             "y": 640,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1161,9 +1161,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1172,9 +1172,9 @@
             "y": 460,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1183,9 +1183,9 @@
             "y": 655,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1194,9 +1194,9 @@
             "y": 364,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 1.0,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1205,9 +1205,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1216,9 +1216,9 @@
             "y": 489,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.9615384615384616)"
             },
-            "value": 0.5,
+            "value": 25.0,
             "category": "C5"
         },
         {
@@ -1227,9 +1227,9 @@
             "y": 625,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.9375)"
             },
-            "value": 0.5,
+            "value": 15.0,
             "category": "C5"
         },
         {
@@ -1238,9 +1238,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9926470588235294)"
             },
-            "value": 0.5,
+            "value": 135.0,
             "category": "C5"
         },
         {
@@ -1249,9 +1249,9 @@
             "y": 340,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1260,9 +1260,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.07,
+            "value": 0.0,
             "category": "C5"
         },
         {
@@ -1271,9 +1271,9 @@
             "y": 295,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.9230769230769231)"
             },
-            "value": 0.25,
+            "value": 12.0,
             "category": "C5"
         },
         {
@@ -1282,9 +1282,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.75)"
             },
-            "value": 0.11,
+            "value": 3.0,
             "category": "C5"
         },
         {
@@ -1293,9 +1293,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1304,9 +1304,9 @@
             "y": 674,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.29,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1315,9 +1315,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.9512195121951219)"
             },
-            "value": 0.22,
+            "value": 19.5,
             "category": "C6"
         },
         {
@@ -1326,9 +1326,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1337,9 +1337,9 @@
             "y": 405,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1348,9 +1348,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.15,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1359,9 +1359,9 @@
             "y": 390,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9838709677419355)"
             },
-            "value": 0.5,
+            "value": 61.0,
             "category": "C6"
         },
         {
@@ -1370,9 +1370,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1381,9 +1381,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1392,9 +1392,9 @@
             "y": 625,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1403,9 +1403,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1414,9 +1414,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1425,9 +1425,9 @@
             "y": 350,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1436,9 +1436,9 @@
             "y": 440,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1447,9 +1447,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.07,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1458,9 +1458,9 @@
             "y": 515,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.8)"
             },
-            "value": 0.5,
+            "value": 4.0,
             "category": "C6"
         },
         {
@@ -1469,9 +1469,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.11,
+            "value": 0.0,
             "category": "C6"
         },
         {
@@ -1480,9 +1480,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1491,9 +1491,9 @@
             "y": 302,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.4,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1502,9 +1502,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.29,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1513,9 +1513,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1524,9 +1524,9 @@
             "y": 350,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1535,9 +1535,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1546,9 +1546,9 @@
             "y": 440,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1557,9 +1557,9 @@
             "y": 540,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1568,9 +1568,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1579,9 +1579,9 @@
             "y": 625,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1590,9 +1590,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1601,9 +1601,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1612,9 +1612,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.12,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1623,9 +1623,9 @@
             "y": 295,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1634,9 +1634,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1645,9 +1645,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9923664122137404)"
             },
-            "value": 0.5,
+            "value": 130.0,
             "category": "C7"
         },
         {
@@ -1656,9 +1656,9 @@
             "y": 295,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1667,9 +1667,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C7"
         },
         {
@@ -1678,9 +1678,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1689,9 +1689,9 @@
             "y": 302,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1700,9 +1700,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.22,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1711,9 +1711,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1722,9 +1722,9 @@
             "y": 460,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1733,9 +1733,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.15,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1744,9 +1744,9 @@
             "y": 640,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9615384615384616)"
             },
-            "value": 0.5,
+            "value": 25.0,
             "category": "C8"
         },
         {
@@ -1755,9 +1755,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1766,9 +1766,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1777,9 +1777,9 @@
             "y": 295,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1788,9 +1788,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.5,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1799,9 +1799,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.08,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1810,9 +1810,9 @@
             "y": 674,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.14,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1821,9 +1821,9 @@
             "y": 295,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1832,9 +1832,9 @@
             "y": 540,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1843,9 +1843,9 @@
             "y": 350,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1854,9 +1854,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.11,
+            "value": 0.0,
             "category": "C8"
         },
         {
@@ -1865,9 +1865,9 @@
             "y": 572,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.15,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1876,9 +1876,9 @@
             "y": 674,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.29,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1887,9 +1887,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.22,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1898,9 +1898,9 @@
             "y": 406,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1909,9 +1909,9 @@
             "y": 405,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1920,9 +1920,9 @@
             "y": 615,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.15,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1931,9 +1931,9 @@
             "y": 440,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.9803921568627451)"
             },
-            "value": 0.33,
+            "value": 50.0,
             "category": "C9"
         },
         {
@@ -1942,9 +1942,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1953,9 +1953,9 @@
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 1.0)"
+                "color": "rgb(255, 255, 0, 0.75)"
             },
-            "value": 0.14,
+            "value": 3.0,
             "category": "C9"
         },
         {
@@ -1964,9 +1964,9 @@
             "y": 295,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.25,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1975,9 +1975,9 @@
             "y": 323,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 0, 0, 1.0)"
+                "color": "rgb(255, 0, 0, 0.0)"
             },
-            "value": 0.22,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1986,9 +1986,9 @@
             "y": 460,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -1997,9 +1997,9 @@
             "y": 590,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(178, 48, 9, 1.0)"
+                "color": "rgb(178, 48, 9, 0.0)"
             },
-            "value": 0.33,
+            "value": 0.0,
             "category": "C9"
         },
         {
@@ -2008,9 +2008,9 @@
             "y": 590,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 128, 0, 1.0)"
+                "color": "rgb(255, 128, 0, 0.9875)"
             },
-            "value": 0.5,
+            "value": 79.0,
             "category": "C9"
         },
         {
@@ -2019,9 +2019,9 @@
             "y": 350,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(34, 139, 34, 1.0)"
+                "color": "rgb(34, 139, 34, 0.0)"
             },
-            "value": 0.2,
+            "value": 0.0,
             "category": "C9"
         }
     ],
