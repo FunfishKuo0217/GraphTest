@@ -1,0 +1,599 @@
+{
+    "nodes": [
+        {
+            "name": "ALK101C01",
+            "x": 50,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "LIR102C01",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "LIR106C01",
+            "x": 1300,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "ALK101C02",
+            "x": 50,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "LIR102C02",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "ALK102C02",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "LIR104C02",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.75)"
+            },
+            "value": 3.0,
+            "category": "C02"
+        },
+        {
+            "name": "ALK102C03",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "LIR102C03",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.6)"
+            },
+            "value": 1.5,
+            "category": "C03"
+        },
+        {
+            "name": "ALK102C04",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "LIR106C04",
+            "x": 1300,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.5)"
+            },
+            "value": 1.0,
+            "category": "C04"
+        },
+        {
+            "name": "ALK101C04",
+            "x": 50,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "LIR107C04",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "ALK102C05",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9259259259259259)"
+            },
+            "value": 12.5,
+            "category": "C05"
+        },
+        {
+            "name": "LIR107C05",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "LIR102C05",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.75)"
+            },
+            "value": 3.0,
+            "category": "C05"
+        },
+        {
+            "name": "ALK101C06",
+            "x": 50,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "LIR106C06",
+            "x": 1300,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "ALK102C06",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "LIR102C06",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "ALK102C07",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "LIR106C07",
+            "x": 1300,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "ALK101C07",
+            "x": 50,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "LIR103C07",
+            "x": 1300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "ALK101C08",
+            "x": 50,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "LIR103C08",
+            "x": 1300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "ALK102C08",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "LIR102C08",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "ALK102C09",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "LIR102C09",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "ALK102C10",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "LIR106C10",
+            "x": 1300,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "LIR107C10",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        }
+    ],
+    "links": [
+        {
+            "source": "ALK101C01",
+            "target": "LIR102C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "ALK101C01",
+            "target": "LIR106C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "ALK101C02",
+            "target": "LIR102C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "ALK102C02",
+            "target": "LIR104C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "ALK102C03",
+            "target": "LIR102C03",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "ALK102C04",
+            "target": "LIR106C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "ALK101C04",
+            "target": "LIR107C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "ALK102C05",
+            "target": "LIR107C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "ALK102C05",
+            "target": "LIR102C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "ALK101C06",
+            "target": "LIR106C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "ALK102C06",
+            "target": "LIR102C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "ALK102C07",
+            "target": "LIR106C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "ALK101C07",
+            "target": "LIR103C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "ALK101C08",
+            "target": "LIR103C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "ALK102C08",
+            "target": "LIR102C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "ALK102C09",
+            "target": "LIR102C09",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "ALK102C10",
+            "target": "LIR106C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "ALK102C10",
+            "target": "LIR107C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        }
+    ],
+    "categories": [
+        {
+            "name": "C01"
+        },
+        {
+            "name": "C02"
+        },
+        {
+            "name": "C03"
+        },
+        {
+            "name": "C04"
+        },
+        {
+            "name": "C05"
+        },
+        {
+            "name": "C06"
+        },
+        {
+            "name": "C07"
+        },
+        {
+            "name": "C08"
+        },
+        {
+            "name": "C09"
+        },
+        {
+            "name": "C10"
+        }
+    ]
+}
