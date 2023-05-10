@@ -67,17 +67,6 @@
             "category": "C01"
         },
         {
-            "name": "LAS101C01",
-            "x": 1050,
-            "y": 365,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C01"
-        },
-        {
             "name": "PRT104C01",
             "x": 1175,
             "y": 405,
@@ -166,17 +155,6 @@
             "category": "C01"
         },
         {
-            "name": "LAS102C01",
-            "x": 1050,
-            "y": 490,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.8888888888888888)"
-            },
-            "value": 8.0,
-            "category": "C01"
-        },
-        {
             "name": "PRT102C01",
             "x": 1175,
             "y": 350,
@@ -260,17 +238,6 @@
             "symbolSize": 30,
             "itemStyle": {
                 "color": "rgb(255, 128, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C02"
-        },
-        {
-            "name": "LAS102C02",
-            "x": 1050,
-            "y": 490,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
             },
             "value": 0.0,
             "category": "C02"
@@ -430,17 +397,6 @@
             "category": "C03"
         },
         {
-            "name": "LAS102C03",
-            "x": 1050,
-            "y": 490,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C03"
-        },
-        {
             "name": "PRT102C03",
             "x": 1175,
             "y": 350,
@@ -584,17 +540,6 @@
             "category": "C04"
         },
         {
-            "name": "LAS103C04",
-            "x": 1050,
-            "y": 615,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C04"
-        },
-        {
             "name": "PRT108BC04",
             "x": 1175,
             "y": 680,
@@ -656,17 +601,6 @@
             "symbolSize": 30,
             "itemStyle": {
                 "color": "rgb(255, 128, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C04"
-        },
-        {
-            "name": "LAS101C04",
-            "x": 1050,
-            "y": 365,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
             },
             "value": 0.0,
             "category": "C04"
@@ -749,17 +683,6 @@
             "category": "C05"
         },
         {
-            "name": "LAS103C05",
-            "x": 1050,
-            "y": 615,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C05"
-        },
-        {
             "name": "PRT105C05",
             "x": 1175,
             "y": 460,
@@ -832,17 +755,6 @@
             "symbolSize": 30,
             "itemStyle": {
                 "color": "rgb(255, 128, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C05"
-        },
-        {
-            "name": "LAS102C05",
-            "x": 1050,
-            "y": 490,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
             },
             "value": 0.0,
             "category": "C05"
@@ -936,17 +848,6 @@
             "category": "C06"
         },
         {
-            "name": "LAS103C06",
-            "x": 1050,
-            "y": 615,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C06"
-        },
-        {
             "name": "PRT108AC06",
             "x": 1175,
             "y": 625,
@@ -986,17 +887,6 @@
             "symbolSize": 30,
             "itemStyle": {
                 "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C06"
-        },
-        {
-            "name": "LAS102C06",
-            "x": 1050,
-            "y": 490,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
             },
             "value": 0.0,
             "category": "C06"
@@ -1085,17 +975,6 @@
             "symbolSize": 30,
             "itemStyle": {
                 "color": "rgb(255, 128, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C07"
-        },
-        {
-            "name": "LAS102C07",
-            "x": 1050,
-            "y": 490,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
             },
             "value": 0.0,
             "category": "C07"
@@ -1255,17 +1134,6 @@
             "category": "C08"
         },
         {
-            "name": "LAS102C08",
-            "x": 1050,
-            "y": 490,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C08"
-        },
-        {
             "name": "PRT101C08",
             "x": 1175,
             "y": 295,
@@ -1395,17 +1263,6 @@
                 "color": "rgb(255, 128, 0, 0.1)"
             },
             "value": 0.0,
-            "category": "C09"
-        },
-        {
-            "name": "LAS102C09",
-            "x": 1050,
-            "y": 490,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.75)"
-            },
-            "value": 3.0,
             "category": "C09"
         },
         {
@@ -1541,17 +1398,6 @@
             "category": "C10"
         },
         {
-            "name": "LAS103C10",
-            "x": 1050,
-            "y": 615,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C10"
-        },
-        {
             "name": "PRT105C10",
             "x": 1175,
             "y": 460,
@@ -1640,17 +1486,6 @@
             "category": "C10"
         },
         {
-            "name": "LAS102C10",
-            "x": 1050,
-            "y": 490,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C10"
-        },
-        {
             "name": "PRT106C10",
             "x": 1175,
             "y": 515,
@@ -1731,17 +1566,6 @@
         },
         {
             "source": "CVD114C01",
-            "target": "LAS101C01",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C01"
-        },
-        {
-            "source": "LAS101C01",
             "target": "PRT104C01",
             "value": 1,
             "lineStyle": {
@@ -1819,17 +1643,6 @@
         },
         {
             "source": "CVD105C01",
-            "target": "LAS102C01",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C01"
-        },
-        {
-            "source": "LAS102C01",
             "target": "PRT102C01",
             "value": 1,
             "lineStyle": {
@@ -1907,17 +1720,6 @@
         },
         {
             "source": "CVD112C02",
-            "target": "LAS102C02",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C02"
-        },
-        {
-            "source": "LAS102C02",
             "target": "PRT104C02",
             "value": 1,
             "lineStyle": {
@@ -1984,17 +1786,6 @@
         },
         {
             "source": "CVD104C02",
-            "target": "LAS102C02",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C02"
-        },
-        {
-            "source": "LAS102C02",
             "target": "PRT107AC02",
             "value": 1,
             "lineStyle": {
@@ -2072,22 +1863,11 @@
         },
         {
             "source": "CVD101C03",
-            "target": "LAS102C03",
+            "target": "PRT102C03",
             "value": 1,
             "lineStyle": {
                 "normal": {
                     "width": 2
-                }
-            },
-            "category": "C03"
-        },
-        {
-            "source": "LAS102C03",
-            "target": "PRT102C03",
-            "value": 2,
-            "lineStyle": {
-                "normal": {
-                    "width": 25
                 }
             },
             "category": "C03"
@@ -2160,7 +1940,7 @@
         },
         {
             "source": "CVD106C03",
-            "target": "LAS102C03",
+            "target": "PRT102C03",
             "value": 1,
             "lineStyle": {
                 "normal": {
@@ -2226,17 +2006,6 @@
         },
         {
             "source": "CVD109C04",
-            "target": "LAS103C04",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C04"
-        },
-        {
-            "source": "LAS103C04",
             "target": "PRT108BC04",
             "value": 1,
             "lineStyle": {
@@ -2303,17 +2072,6 @@
         },
         {
             "source": "CVD114C04",
-            "target": "LAS101C04",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C04"
-        },
-        {
-            "source": "LAS101C04",
             "target": "PRT108BC04",
             "value": 1,
             "lineStyle": {
@@ -2391,17 +2149,6 @@
         },
         {
             "source": "CVD112C05",
-            "target": "LAS103C05",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C05"
-        },
-        {
-            "source": "LAS103C05",
             "target": "PRT105C05",
             "value": 1,
             "lineStyle": {
@@ -2479,17 +2226,6 @@
         },
         {
             "source": "CVD104C05",
-            "target": "LAS102C05",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C05"
-        },
-        {
-            "source": "LAS102C05",
             "target": "PRT101C05",
             "value": 1,
             "lineStyle": {
@@ -2567,17 +2303,6 @@
         },
         {
             "source": "CVD107C06",
-            "target": "LAS103C06",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C06"
-        },
-        {
-            "source": "LAS103C06",
             "target": "PRT108AC06",
             "value": 1,
             "lineStyle": {
@@ -2644,17 +2369,6 @@
         },
         {
             "source": "CVD107C06",
-            "target": "LAS102C06",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C06"
-        },
-        {
-            "source": "LAS102C06",
             "target": "PRT106C06",
             "value": 1,
             "lineStyle": {
@@ -2732,17 +2446,6 @@
         },
         {
             "source": "CVD108C07",
-            "target": "LAS102C07",
-            "value": 2,
-            "lineStyle": {
-                "normal": {
-                    "width": 25
-                }
-            },
-            "category": "C07"
-        },
-        {
-            "source": "LAS102C07",
             "target": "PRT108AC07",
             "value": 1,
             "lineStyle": {
@@ -2819,7 +2522,7 @@
             "category": "C07"
         },
         {
-            "source": "LAS102C07",
+            "source": "CVD108C07",
             "target": "PRT101C07",
             "value": 1,
             "lineStyle": {
@@ -2897,17 +2600,6 @@
         },
         {
             "source": "CVD107C08",
-            "target": "LAS102C08",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C08"
-        },
-        {
-            "source": "LAS102C08",
             "target": "PRT101C08",
             "value": 1,
             "lineStyle": {
@@ -2963,17 +2655,6 @@
         },
         {
             "source": "CVD108C08",
-            "target": "LAS102C08",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C08"
-        },
-        {
-            "source": "LAS102C08",
             "target": "PRT102C08",
             "value": 1,
             "lineStyle": {
@@ -3051,17 +2732,6 @@
         },
         {
             "source": "CVD107C09",
-            "target": "LAS102C09",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C09"
-        },
-        {
-            "source": "LAS102C09",
             "target": "PRT101C09",
             "value": 1,
             "lineStyle": {
@@ -3128,17 +2798,6 @@
         },
         {
             "source": "CVD109C09",
-            "target": "LAS102C09",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C09"
-        },
-        {
-            "source": "LAS102C09",
             "target": "PRT102C09",
             "value": 1,
             "lineStyle": {
@@ -3216,17 +2875,6 @@
         },
         {
             "source": "CVD102C10",
-            "target": "LAS103C10",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C10"
-        },
-        {
-            "source": "LAS103C10",
             "target": "PRT105C10",
             "value": 1,
             "lineStyle": {
@@ -3304,17 +2952,6 @@
         },
         {
             "source": "CVD108C10",
-            "target": "LAS102C10",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C10"
-        },
-        {
-            "source": "LAS102C10",
             "target": "PRT106C10",
             "value": 1,
             "lineStyle": {
