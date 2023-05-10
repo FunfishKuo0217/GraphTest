@@ -1,0 +1,4119 @@
+{
+    "nodes": [
+        {
+            "name": "ALK101C01",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "DIF109C01",
+            "x": 175,
+            "y": 550,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9666666666666667)"
+            },
+            "value": 29.0,
+            "category": "C01"
+        },
+        {
+            "name": "SEL101C01",
+            "x": 300,
+            "y": 365,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "INX105C01",
+            "x": 425,
+            "y": 655,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "DIF111C01",
+            "x": 550,
+            "y": 570,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "ALD102C01",
+            "x": 675,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "CVD118C01",
+            "x": 800,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.7029702970297029)"
+            },
+            "value": 71.0,
+            "category": "C01"
+        },
+        {
+            "name": "CVD114C01",
+            "x": 925,
+            "y": 690,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "LAS101C01",
+            "x": 1050,
+            "y": 365,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "PRT104C01",
+            "x": 1175,
+            "y": 405,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "LIR102C01",
+            "x": 1300,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "DIF113C01",
+            "x": 175,
+            "y": 674,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "SEL103C01",
+            "x": 300,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "INX101C01",
+            "x": 425,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "DIF103C01",
+            "x": 550,
+            "y": 405,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "ALD103C01",
+            "x": 675,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "CVD126C01",
+            "x": 800,
+            "y": 640,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9900990099009901)"
+            },
+            "value": 100.0,
+            "category": "C01"
+        },
+        {
+            "name": "CVD105C01",
+            "x": 925,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "LAS102C01",
+            "x": 1050,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.8888888888888888)"
+            },
+            "value": 8.0,
+            "category": "C01"
+        },
+        {
+            "name": "PRT102C01",
+            "x": 1175,
+            "y": 350,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "LIR106C01",
+            "x": 1300,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C01"
+        },
+        {
+            "name": "ALK101C02",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "DIF108C02",
+            "x": 175,
+            "y": 488,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9655172413793104)"
+            },
+            "value": 28.0,
+            "category": "C02"
+        },
+        {
+            "name": "SEL101C02",
+            "x": 300,
+            "y": 365,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "INX105C02",
+            "x": 425,
+            "y": 655,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "DIF110C02",
+            "x": 550,
+            "y": 515,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "ALD103C02",
+            "x": 675,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "CVD119C02",
+            "x": 800,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "CVD112C02",
+            "x": 925,
+            "y": 640,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "LAS102C02",
+            "x": 1050,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "PRT104C02",
+            "x": 1175,
+            "y": 405,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "LIR102C02",
+            "x": 1300,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "ALK102C02",
+            "x": 50,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "DIF112C02",
+            "x": 175,
+            "y": 612,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "SEL102C02",
+            "x": 300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "ALD101C02",
+            "x": 675,
+            "y": 365,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "CVD118C02",
+            "x": 800,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9722222222222222)"
+            },
+            "value": 35.0,
+            "category": "C02"
+        },
+        {
+            "name": "CVD104C02",
+            "x": 925,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "PRT107AC02",
+            "x": 1175,
+            "y": 570,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C02"
+        },
+        {
+            "name": "LIR104C02",
+            "x": 1300,
+            "y": 489,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.75)"
+            },
+            "value": 3.0,
+            "category": "C02"
+        },
+        {
+            "name": "ALK102C03",
+            "x": 50,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "DIF107C03",
+            "x": 175,
+            "y": 426,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "SEL102C03",
+            "x": 300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "INX104C03",
+            "x": 425,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "DIF115C03",
+            "x": 550,
+            "y": 680,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "ALD102C03",
+            "x": 675,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "CVD124C03",
+            "x": 800,
+            "y": 540,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "CVD101C03",
+            "x": 925,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "LAS102C03",
+            "x": 1050,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "PRT102C03",
+            "x": 1175,
+            "y": 350,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "LIR102C03",
+            "x": 1300,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.6)"
+            },
+            "value": 1.5,
+            "category": "C03"
+        },
+        {
+            "name": "DIF105C03",
+            "x": 175,
+            "y": 302,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "INX101C03",
+            "x": 425,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "DIF101C03",
+            "x": 550,
+            "y": 295,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "ALD103C03",
+            "x": 675,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "CVD127C03",
+            "x": 800,
+            "y": 690,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "CVD106C03",
+            "x": 925,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C03"
+        },
+        {
+            "name": "ALK102C04",
+            "x": 50,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "DIF108C04",
+            "x": 175,
+            "y": 488,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "SEL101C04",
+            "x": 300,
+            "y": 365,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "INX105C04",
+            "x": 425,
+            "y": 655,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "DIF110C04",
+            "x": 550,
+            "y": 515,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "ALD102C04",
+            "x": 675,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "CVD127C04",
+            "x": 800,
+            "y": 690,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "CVD109C04",
+            "x": 925,
+            "y": 590,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "LAS103C04",
+            "x": 1050,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "PRT108BC04",
+            "x": 1175,
+            "y": 680,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.8181818181818182)"
+            },
+            "value": 4.5,
+            "category": "C04"
+        },
+        {
+            "name": "LIR106C04",
+            "x": 1300,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.5)"
+            },
+            "value": 1.0,
+            "category": "C04"
+        },
+        {
+            "name": "ALK101C04",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "DIF109C04",
+            "x": 175,
+            "y": 550,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "DIF111C04",
+            "x": 550,
+            "y": 570,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "ALD101C04",
+            "x": 675,
+            "y": 365,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "CVD117C04",
+            "x": 800,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "CVD114C04",
+            "x": 925,
+            "y": 690,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "LAS101C04",
+            "x": 1050,
+            "y": 365,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "LIR107C04",
+            "x": 1300,
+            "y": 655,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C04"
+        },
+        {
+            "name": "ALK102C05",
+            "x": 50,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9259259259259259)"
+            },
+            "value": 12.5,
+            "category": "C05"
+        },
+        {
+            "name": "DIF113C05",
+            "x": 175,
+            "y": 674,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "SEL103C05",
+            "x": 300,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "INX102C05",
+            "x": 425,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "DIF104C05",
+            "x": 550,
+            "y": 460,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "ALD103C05",
+            "x": 675,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "CVD125C05",
+            "x": 800,
+            "y": 590,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.7352941176470589)"
+            },
+            "value": 100.0,
+            "category": "C05"
+        },
+        {
+            "name": "CVD112C05",
+            "x": 925,
+            "y": 640,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "LAS103C05",
+            "x": 1050,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "PRT105C05",
+            "x": 1175,
+            "y": 460,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "LIR107C05",
+            "x": 1300,
+            "y": 655,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "DIF106C05",
+            "x": 175,
+            "y": 364,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "SEL102C05",
+            "x": 300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "INX103C05",
+            "x": 425,
+            "y": 489,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.9615384615384616)"
+            },
+            "value": 25.0,
+            "category": "C05"
+        },
+        {
+            "name": "DIF114C05",
+            "x": 550,
+            "y": 625,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.9375)"
+            },
+            "value": 15.0,
+            "category": "C05"
+        },
+        {
+            "name": "CVD121C05",
+            "x": 800,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9926470588235294)"
+            },
+            "value": 135.0,
+            "category": "C05"
+        },
+        {
+            "name": "CVD104C05",
+            "x": 925,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "LAS102C05",
+            "x": 1050,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C05"
+        },
+        {
+            "name": "PRT101C05",
+            "x": 1175,
+            "y": 295,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.9230769230769231)"
+            },
+            "value": 12.0,
+            "category": "C05"
+        },
+        {
+            "name": "LIR102C05",
+            "x": 1300,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.75)"
+            },
+            "value": 3.0,
+            "category": "C05"
+        },
+        {
+            "name": "ALK101C06",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "DIF113C06",
+            "x": 175,
+            "y": 674,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "SEL103C06",
+            "x": 300,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.9512195121951219)"
+            },
+            "value": 19.5,
+            "category": "C06"
+        },
+        {
+            "name": "INX102C06",
+            "x": 425,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "DIF103C06",
+            "x": 550,
+            "y": 405,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "ALD103C06",
+            "x": 675,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "CVD119C06",
+            "x": 800,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9838709677419355)"
+            },
+            "value": 61.0,
+            "category": "C06"
+        },
+        {
+            "name": "CVD107C06",
+            "x": 925,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "LAS103C06",
+            "x": 1050,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "PRT108AC06",
+            "x": 1175,
+            "y": 625,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "LIR106C06",
+            "x": 1300,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "ALK102C06",
+            "x": 50,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "DIF102C06",
+            "x": 550,
+            "y": 350,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "CVD120C06",
+            "x": 800,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "LAS102C06",
+            "x": 1050,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "PRT106C06",
+            "x": 1175,
+            "y": 515,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.8)"
+            },
+            "value": 4.0,
+            "category": "C06"
+        },
+        {
+            "name": "LIR102C06",
+            "x": 1300,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C06"
+        },
+        {
+            "name": "ALK102C07",
+            "x": 50,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "DIF105C07",
+            "x": 175,
+            "y": 302,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "SEL102C07",
+            "x": 300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "INX101C07",
+            "x": 425,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "DIF102C07",
+            "x": 550,
+            "y": 350,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "ALD102C07",
+            "x": 675,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "CVD120C07",
+            "x": 800,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "CVD108C07",
+            "x": 925,
+            "y": 540,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "LAS102C07",
+            "x": 1050,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "PRT108AC07",
+            "x": 1175,
+            "y": 625,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "LIR106C07",
+            "x": 1300,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "ALK101C07",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "INX102C07",
+            "x": 425,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "DIF101C07",
+            "x": 550,
+            "y": 295,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "ALD103C07",
+            "x": 675,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "CVD121C07",
+            "x": 800,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9923664122137404)"
+            },
+            "value": 130.0,
+            "category": "C07"
+        },
+        {
+            "name": "PRT101C07",
+            "x": 1175,
+            "y": 295,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "LIR103C07",
+            "x": 1300,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C07"
+        },
+        {
+            "name": "ALK101C08",
+            "x": 50,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "DIF105C08",
+            "x": 175,
+            "y": 302,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "SEL103C08",
+            "x": 300,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "INX102C08",
+            "x": 425,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "DIF104C08",
+            "x": 550,
+            "y": 460,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "ALD103C08",
+            "x": 675,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "CVD126C08",
+            "x": 800,
+            "y": 640,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9615384615384616)"
+            },
+            "value": 25.0,
+            "category": "C08"
+        },
+        {
+            "name": "CVD107C08",
+            "x": 925,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "LAS102C08",
+            "x": 1050,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "PRT101C08",
+            "x": 1175,
+            "y": 295,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "LIR103C08",
+            "x": 1300,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "ALK102C08",
+            "x": 50,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "DIF113C08",
+            "x": 175,
+            "y": 674,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "DIF101C08",
+            "x": 550,
+            "y": 295,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "CVD108C08",
+            "x": 925,
+            "y": 540,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "PRT102C08",
+            "x": 1175,
+            "y": 350,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "LIR102C08",
+            "x": 1300,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C08"
+        },
+        {
+            "name": "ALK102C09",
+            "x": 50,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "DIF113C09",
+            "x": 175,
+            "y": 674,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "SEL103C09",
+            "x": 300,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "INX102C09",
+            "x": 425,
+            "y": 406,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "DIF103C09",
+            "x": 550,
+            "y": 405,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "ALD103C09",
+            "x": 675,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "CVD120C09",
+            "x": 800,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9803921568627451)"
+            },
+            "value": 50.0,
+            "category": "C09"
+        },
+        {
+            "name": "CVD107C09",
+            "x": 925,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "LAS102C09",
+            "x": 1050,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.75)"
+            },
+            "value": 3.0,
+            "category": "C09"
+        },
+        {
+            "name": "PRT101C09",
+            "x": 1175,
+            "y": 295,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "LIR102C09",
+            "x": 1300,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "DIF104C09",
+            "x": 550,
+            "y": 460,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "CVD125C09",
+            "x": 800,
+            "y": 590,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "CVD109C09",
+            "x": 925,
+            "y": 590,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.9875)"
+            },
+            "value": 79.0,
+            "category": "C09"
+        },
+        {
+            "name": "PRT102C09",
+            "x": 1175,
+            "y": 350,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C09"
+        },
+        {
+            "name": "ALK102C10",
+            "x": 50,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "DIF112C10",
+            "x": 175,
+            "y": 612,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "SEL102C10",
+            "x": 300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "INX103C10",
+            "x": 425,
+            "y": 489,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.9925373134328358)"
+            },
+            "value": 133.0,
+            "category": "C10"
+        },
+        {
+            "name": "DIF114C10",
+            "x": 550,
+            "y": 625,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.875)"
+            },
+            "value": 7.0,
+            "category": "C10"
+        },
+        {
+            "name": "ALD102C10",
+            "x": 675,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "CVD125C10",
+            "x": 800,
+            "y": 590,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.9836065573770492)"
+            },
+            "value": 60.0,
+            "category": "C10"
+        },
+        {
+            "name": "CVD102C10",
+            "x": 925,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "LAS103C10",
+            "x": 1050,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "PRT105C10",
+            "x": 1175,
+            "y": 460,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "LIR106C10",
+            "x": 1300,
+            "y": 572,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "DIF105C10",
+            "x": 175,
+            "y": 302,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "SEL103C10",
+            "x": 300,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "INX101C10",
+            "x": 425,
+            "y": 323,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "DIF101C10",
+            "x": 550,
+            "y": 295,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.75)"
+            },
+            "value": 6.0,
+            "category": "C10"
+        },
+        {
+            "name": "ALD103C10",
+            "x": 675,
+            "y": 615,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "CVD126C10",
+            "x": 800,
+            "y": 640,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(178, 48, 9, 0.7213114754098361)"
+            },
+            "value": 44.0,
+            "category": "C10"
+        },
+        {
+            "name": "CVD108C10",
+            "x": 925,
+            "y": 540,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.9902912621359223)"
+            },
+            "value": 102.0,
+            "category": "C10"
+        },
+        {
+            "name": "LAS102C10",
+            "x": 1050,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        },
+        {
+            "name": "PRT106C10",
+            "x": 1175,
+            "y": 515,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(34, 139, 34, 0.75)"
+            },
+            "value": 3.0,
+            "category": "C10"
+        },
+        {
+            "name": "LIR107C10",
+            "x": 1300,
+            "y": 655,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": 0.0,
+            "category": "C10"
+        }
+    ],
+    "links": [
+        {
+            "source": "ALK101C01",
+            "target": "DIF109C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "DIF109C01",
+            "target": "SEL101C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "SEL101C01",
+            "target": "INX105C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "INX105C01",
+            "target": "DIF111C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "DIF111C01",
+            "target": "ALD102C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "ALD102C01",
+            "target": "CVD118C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "CVD118C01",
+            "target": "CVD114C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "CVD114C01",
+            "target": "LAS101C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "LAS101C01",
+            "target": "PRT104C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "PRT104C01",
+            "target": "LIR102C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "ALK101C01",
+            "target": "DIF113C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "DIF113C01",
+            "target": "SEL103C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "SEL103C01",
+            "target": "INX101C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "INX101C01",
+            "target": "DIF103C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "DIF103C01",
+            "target": "ALD103C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "ALD103C01",
+            "target": "CVD126C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "CVD126C01",
+            "target": "CVD105C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "CVD105C01",
+            "target": "LAS102C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "LAS102C01",
+            "target": "PRT102C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "PRT102C01",
+            "target": "LIR106C01",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C01"
+        },
+        {
+            "source": "ALK101C02",
+            "target": "DIF108C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "DIF108C02",
+            "target": "SEL101C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "SEL101C02",
+            "target": "INX105C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "INX105C02",
+            "target": "DIF110C02",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "DIF110C02",
+            "target": "ALD103C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "ALD103C02",
+            "target": "CVD119C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "CVD119C02",
+            "target": "CVD112C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "CVD112C02",
+            "target": "LAS102C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "LAS102C02",
+            "target": "PRT104C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "PRT104C02",
+            "target": "LIR102C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "ALK102C02",
+            "target": "DIF112C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "DIF112C02",
+            "target": "SEL102C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "SEL102C02",
+            "target": "INX105C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "DIF110C02",
+            "target": "ALD101C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "ALD101C02",
+            "target": "CVD118C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "CVD118C02",
+            "target": "CVD104C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "CVD104C02",
+            "target": "LAS102C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "LAS102C02",
+            "target": "PRT107AC02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "PRT107AC02",
+            "target": "LIR104C02",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C02"
+        },
+        {
+            "source": "ALK102C03",
+            "target": "DIF107C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "DIF107C03",
+            "target": "SEL102C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "SEL102C03",
+            "target": "INX104C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "INX104C03",
+            "target": "DIF115C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "DIF115C03",
+            "target": "ALD102C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "ALD102C03",
+            "target": "CVD124C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "CVD124C03",
+            "target": "CVD101C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "CVD101C03",
+            "target": "LAS102C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "LAS102C03",
+            "target": "PRT102C03",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "PRT102C03",
+            "target": "LIR102C03",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "ALK102C03",
+            "target": "DIF105C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "DIF105C03",
+            "target": "SEL102C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "SEL102C03",
+            "target": "INX101C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "INX101C03",
+            "target": "DIF101C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "DIF101C03",
+            "target": "ALD103C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "ALD103C03",
+            "target": "CVD127C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "CVD127C03",
+            "target": "CVD106C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "CVD106C03",
+            "target": "LAS102C03",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C03"
+        },
+        {
+            "source": "ALK102C04",
+            "target": "DIF108C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "DIF108C04",
+            "target": "SEL101C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "SEL101C04",
+            "target": "INX105C04",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "INX105C04",
+            "target": "DIF110C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "DIF110C04",
+            "target": "ALD102C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "ALD102C04",
+            "target": "CVD127C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "CVD127C04",
+            "target": "CVD109C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "CVD109C04",
+            "target": "LAS103C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "LAS103C04",
+            "target": "PRT108BC04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "PRT108BC04",
+            "target": "LIR106C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "ALK101C04",
+            "target": "DIF109C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "DIF109C04",
+            "target": "SEL101C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "INX105C04",
+            "target": "DIF111C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "DIF111C04",
+            "target": "ALD101C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "ALD101C04",
+            "target": "CVD117C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "CVD117C04",
+            "target": "CVD114C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "CVD114C04",
+            "target": "LAS101C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "LAS101C04",
+            "target": "PRT108BC04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "PRT108BC04",
+            "target": "LIR107C04",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C04"
+        },
+        {
+            "source": "ALK102C05",
+            "target": "DIF113C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "DIF113C05",
+            "target": "SEL103C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "SEL103C05",
+            "target": "INX102C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "INX102C05",
+            "target": "DIF104C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "DIF104C05",
+            "target": "ALD103C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "ALD103C05",
+            "target": "CVD125C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "CVD125C05",
+            "target": "CVD112C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "CVD112C05",
+            "target": "LAS103C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "LAS103C05",
+            "target": "PRT105C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "PRT105C05",
+            "target": "LIR107C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "ALK102C05",
+            "target": "DIF106C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "DIF106C05",
+            "target": "SEL102C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "SEL102C05",
+            "target": "INX103C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "INX103C05",
+            "target": "DIF114C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "DIF114C05",
+            "target": "ALD103C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "ALD103C05",
+            "target": "CVD121C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "CVD121C05",
+            "target": "CVD104C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "CVD104C05",
+            "target": "LAS102C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "LAS102C05",
+            "target": "PRT101C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "PRT101C05",
+            "target": "LIR102C05",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C05"
+        },
+        {
+            "source": "ALK101C06",
+            "target": "DIF113C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "DIF113C06",
+            "target": "SEL103C06",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "SEL103C06",
+            "target": "INX102C06",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "INX102C06",
+            "target": "DIF103C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "DIF103C06",
+            "target": "ALD103C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "ALD103C06",
+            "target": "CVD119C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "CVD119C06",
+            "target": "CVD107C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "CVD107C06",
+            "target": "LAS103C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "LAS103C06",
+            "target": "PRT108AC06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "PRT108AC06",
+            "target": "LIR106C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "ALK102C06",
+            "target": "DIF113C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "INX102C06",
+            "target": "DIF102C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "DIF102C06",
+            "target": "ALD103C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "ALD103C06",
+            "target": "CVD120C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "CVD120C06",
+            "target": "CVD107C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "CVD107C06",
+            "target": "LAS102C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "LAS102C06",
+            "target": "PRT106C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "PRT106C06",
+            "target": "LIR102C06",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C06"
+        },
+        {
+            "source": "ALK102C07",
+            "target": "DIF105C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "DIF105C07",
+            "target": "SEL102C07",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "SEL102C07",
+            "target": "INX101C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "INX101C07",
+            "target": "DIF102C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "DIF102C07",
+            "target": "ALD102C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "ALD102C07",
+            "target": "CVD120C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "CVD120C07",
+            "target": "CVD108C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "CVD108C07",
+            "target": "LAS102C07",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "LAS102C07",
+            "target": "PRT108AC07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "PRT108AC07",
+            "target": "LIR106C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "ALK101C07",
+            "target": "DIF105C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "SEL102C07",
+            "target": "INX102C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "INX102C07",
+            "target": "DIF101C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "DIF101C07",
+            "target": "ALD103C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "ALD103C07",
+            "target": "CVD121C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "CVD121C07",
+            "target": "CVD108C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "LAS102C07",
+            "target": "PRT101C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "PRT101C07",
+            "target": "LIR103C07",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C07"
+        },
+        {
+            "source": "ALK101C08",
+            "target": "DIF105C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "DIF105C08",
+            "target": "SEL103C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "SEL103C08",
+            "target": "INX102C08",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "INX102C08",
+            "target": "DIF104C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "DIF104C08",
+            "target": "ALD103C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "ALD103C08",
+            "target": "CVD126C08",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "CVD126C08",
+            "target": "CVD107C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "CVD107C08",
+            "target": "LAS102C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "LAS102C08",
+            "target": "PRT101C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "PRT101C08",
+            "target": "LIR103C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "ALK102C08",
+            "target": "DIF113C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "DIF113C08",
+            "target": "SEL103C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "INX102C08",
+            "target": "DIF101C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "DIF101C08",
+            "target": "ALD103C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "CVD126C08",
+            "target": "CVD108C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "CVD108C08",
+            "target": "LAS102C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "LAS102C08",
+            "target": "PRT102C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "PRT102C08",
+            "target": "LIR102C08",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C08"
+        },
+        {
+            "source": "ALK102C09",
+            "target": "DIF113C09",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "DIF113C09",
+            "target": "SEL103C09",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "SEL103C09",
+            "target": "INX102C09",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "INX102C09",
+            "target": "DIF103C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "DIF103C09",
+            "target": "ALD103C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "ALD103C09",
+            "target": "CVD120C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "CVD120C09",
+            "target": "CVD107C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "CVD107C09",
+            "target": "LAS102C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "LAS102C09",
+            "target": "PRT101C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "PRT101C09",
+            "target": "LIR102C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "INX102C09",
+            "target": "DIF104C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "DIF104C09",
+            "target": "ALD103C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "ALD103C09",
+            "target": "CVD125C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "CVD125C09",
+            "target": "CVD109C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "CVD109C09",
+            "target": "LAS102C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "LAS102C09",
+            "target": "PRT102C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "PRT102C09",
+            "target": "LIR102C09",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C09"
+        },
+        {
+            "source": "ALK102C10",
+            "target": "DIF112C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "DIF112C10",
+            "target": "SEL102C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "SEL102C10",
+            "target": "INX103C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "INX103C10",
+            "target": "DIF114C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "DIF114C10",
+            "target": "ALD102C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "ALD102C10",
+            "target": "CVD125C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "CVD125C10",
+            "target": "CVD102C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "CVD102C10",
+            "target": "LAS103C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "LAS103C10",
+            "target": "PRT105C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "PRT105C10",
+            "target": "LIR106C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "ALK102C10",
+            "target": "DIF105C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "DIF105C10",
+            "target": "SEL103C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "SEL103C10",
+            "target": "INX101C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "INX101C10",
+            "target": "DIF101C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "DIF101C10",
+            "target": "ALD103C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "ALD103C10",
+            "target": "CVD126C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "CVD126C10",
+            "target": "CVD108C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "CVD108C10",
+            "target": "LAS102C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "LAS102C10",
+            "target": "PRT106C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        },
+        {
+            "source": "PRT106C10",
+            "target": "LIR107C10",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C10"
+        }
+    ],
+    "categories": [
+        {
+            "name": "C01"
+        },
+        {
+            "name": "C02"
+        },
+        {
+            "name": "C03"
+        },
+        {
+            "name": "C04"
+        },
+        {
+            "name": "C05"
+        },
+        {
+            "name": "C06"
+        },
+        {
+            "name": "C07"
+        },
+        {
+            "name": "C08"
+        },
+        {
+            "name": "C09"
+        },
+        {
+            "name": "C10"
+        }
+    ]
+}
