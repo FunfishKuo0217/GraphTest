@@ -1,17 +1,6 @@
 {
     "nodes": [
         {
-            "name": "DIF109C01",
-            "x": 175,
-            "y": 550,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.9666666666666667)"
-            },
-            "value": 29.0,
-            "category": "C01"
-        },
-        {
             "name": "SEL101C01",
             "x": 300,
             "y": 365,
@@ -106,17 +95,6 @@
             "symbolSize": 30,
             "itemStyle": {
                 "color": "rgb(255, 0, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C01"
-        },
-        {
-            "name": "DIF113C01",
-            "x": 175,
-            "y": 674,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
             },
             "value": 0.0,
             "category": "C01"
@@ -221,17 +199,6 @@
             "category": "C01"
         },
         {
-            "name": "DIF108C02",
-            "x": 175,
-            "y": 488,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.9655172413793104)"
-            },
-            "value": 28.0,
-            "category": "C02"
-        },
-        {
             "name": "SEL101C02",
             "x": 300,
             "y": 365,
@@ -331,17 +298,6 @@
             "category": "C02"
         },
         {
-            "name": "DIF112C02",
-            "x": 175,
-            "y": 612,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C02"
-        },
-        {
             "name": "SEL102C02",
             "x": 300,
             "y": 490,
@@ -406,17 +362,6 @@
             },
             "value": 3.0,
             "category": "C02"
-        },
-        {
-            "name": "DIF107C03",
-            "x": 175,
-            "y": 426,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C03"
         },
         {
             "name": "SEL102C03",
@@ -518,17 +463,6 @@
             "category": "C03"
         },
         {
-            "name": "DIF105C03",
-            "x": 175,
-            "y": 302,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C03"
-        },
-        {
             "name": "INX101C03",
             "x": 425,
             "y": 323,
@@ -582,17 +516,6 @@
             },
             "value": 0.0,
             "category": "C03"
-        },
-        {
-            "name": "DIF108C04",
-            "x": 175,
-            "y": 488,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C04"
         },
         {
             "name": "SEL101C04",
@@ -694,17 +617,6 @@
             "category": "C04"
         },
         {
-            "name": "DIF109C04",
-            "x": 175,
-            "y": 550,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C04"
-        },
-        {
             "name": "DIF111C04",
             "x": 550,
             "y": 570,
@@ -769,17 +681,6 @@
             },
             "value": 0.0,
             "category": "C04"
-        },
-        {
-            "name": "DIF113C05",
-            "x": 175,
-            "y": 674,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C05"
         },
         {
             "name": "SEL103C05",
@@ -881,17 +782,6 @@
             "category": "C05"
         },
         {
-            "name": "DIF106C05",
-            "x": 175,
-            "y": 364,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C05"
-        },
-        {
             "name": "SEL102C05",
             "x": 300,
             "y": 490,
@@ -978,17 +868,6 @@
             },
             "value": 3.0,
             "category": "C05"
-        },
-        {
-            "name": "DIF113C06",
-            "x": 175,
-            "y": 674,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C06"
         },
         {
             "name": "SEL103C06",
@@ -1143,17 +1022,6 @@
             },
             "value": 0.0,
             "category": "C06"
-        },
-        {
-            "name": "DIF105C07",
-            "x": 175,
-            "y": 302,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C07"
         },
         {
             "name": "SEL102C07",
@@ -1321,17 +1189,6 @@
             "category": "C07"
         },
         {
-            "name": "DIF105C08",
-            "x": 175,
-            "y": 302,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C08"
-        },
-        {
             "name": "SEL103C08",
             "x": 300,
             "y": 615,
@@ -1431,17 +1288,6 @@
             "category": "C08"
         },
         {
-            "name": "DIF113C08",
-            "x": 175,
-            "y": 674,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C08"
-        },
-        {
             "name": "DIF101C08",
             "x": 550,
             "y": 295,
@@ -1484,17 +1330,6 @@
             },
             "value": 0.0,
             "category": "C08"
-        },
-        {
-            "name": "DIF113C09",
-            "x": 175,
-            "y": 674,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C09"
         },
         {
             "name": "SEL103C09",
@@ -1640,17 +1475,6 @@
             "category": "C09"
         },
         {
-            "name": "DIF112C10",
-            "x": 175,
-            "y": 612,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C10"
-        },
-        {
             "name": "SEL102C10",
             "x": 300,
             "y": 490,
@@ -1745,17 +1569,6 @@
             "symbolSize": 30,
             "itemStyle": {
                 "color": "rgb(255, 0, 0, 0.1)"
-            },
-            "value": 0.0,
-            "category": "C10"
-        },
-        {
-            "name": "DIF105C10",
-            "x": 175,
-            "y": 302,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(178, 48, 9, 0.1)"
             },
             "value": 0.0,
             "category": "C10"
@@ -1862,17 +1675,6 @@
     ],
     "links": [
         {
-            "source": "DIF109C01",
-            "target": "SEL101C01",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C01"
-        },
-        {
             "source": "SEL101C01",
             "target": "INX105C01",
             "value": 1,
@@ -1952,17 +1754,6 @@
         {
             "source": "PRT104C01",
             "target": "LIR102C01",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C01"
-        },
-        {
-            "source": "DIF113C01",
-            "target": "SEL103C01",
             "value": 1,
             "lineStyle": {
                 "normal": {
@@ -2060,17 +1851,6 @@
             "category": "C01"
         },
         {
-            "source": "DIF108C02",
-            "target": "SEL101C02",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C02"
-        },
-        {
             "source": "SEL101C02",
             "target": "INX105C02",
             "value": 1,
@@ -2159,17 +1939,6 @@
             "category": "C02"
         },
         {
-            "source": "DIF112C02",
-            "target": "SEL102C02",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C02"
-        },
-        {
             "source": "SEL102C02",
             "target": "INX105C02",
             "value": 1,
@@ -2245,17 +2014,6 @@
                 }
             },
             "category": "C02"
-        },
-        {
-            "source": "DIF107C03",
-            "target": "SEL102C03",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C03"
         },
         {
             "source": "SEL102C03",
@@ -2346,17 +2104,6 @@
             "category": "C03"
         },
         {
-            "source": "DIF105C03",
-            "target": "SEL102C03",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C03"
-        },
-        {
             "source": "SEL102C03",
             "target": "INX101C03",
             "value": 1,
@@ -2421,17 +2168,6 @@
                 }
             },
             "category": "C03"
-        },
-        {
-            "source": "DIF108C04",
-            "target": "SEL101C04",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C04"
         },
         {
             "source": "SEL101C04",
@@ -2522,17 +2258,6 @@
             "category": "C04"
         },
         {
-            "source": "DIF109C04",
-            "target": "SEL101C04",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C04"
-        },
-        {
             "source": "INX105C04",
             "target": "DIF111C04",
             "value": 1,
@@ -2608,17 +2333,6 @@
                 }
             },
             "category": "C04"
-        },
-        {
-            "source": "DIF113C05",
-            "target": "SEL103C05",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C05"
         },
         {
             "source": "SEL103C05",
@@ -2700,17 +2414,6 @@
         {
             "source": "PRT105C05",
             "target": "LIR107C05",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C05"
-        },
-        {
-            "source": "DIF106C05",
-            "target": "SEL102C05",
             "value": 1,
             "lineStyle": {
                 "normal": {
@@ -2806,17 +2509,6 @@
                 }
             },
             "category": "C05"
-        },
-        {
-            "source": "DIF113C06",
-            "target": "SEL103C06",
-            "value": 2,
-            "lineStyle": {
-                "normal": {
-                    "width": 25
-                }
-            },
-            "category": "C06"
         },
         {
             "source": "SEL103C06",
@@ -2984,17 +2676,6 @@
             "category": "C06"
         },
         {
-            "source": "DIF105C07",
-            "target": "SEL102C07",
-            "value": 2,
-            "lineStyle": {
-                "normal": {
-                    "width": 25
-                }
-            },
-            "category": "C07"
-        },
-        {
             "source": "SEL102C07",
             "target": "INX101C07",
             "value": 1,
@@ -3160,17 +2841,6 @@
             "category": "C07"
         },
         {
-            "source": "DIF105C08",
-            "target": "SEL103C08",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C08"
-        },
-        {
             "source": "SEL103C08",
             "target": "INX102C08",
             "value": 2,
@@ -3259,17 +2929,6 @@
             "category": "C08"
         },
         {
-            "source": "DIF113C08",
-            "target": "SEL103C08",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C08"
-        },
-        {
             "source": "INX102C08",
             "target": "DIF101C08",
             "value": 1,
@@ -3334,17 +2993,6 @@
                 }
             },
             "category": "C08"
-        },
-        {
-            "source": "DIF113C09",
-            "target": "SEL103C09",
-            "value": 2,
-            "lineStyle": {
-                "normal": {
-                    "width": 25
-                }
-            },
-            "category": "C09"
         },
         {
             "source": "SEL103C09",
@@ -3512,17 +3160,6 @@
             "category": "C09"
         },
         {
-            "source": "DIF112C10",
-            "target": "SEL102C10",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C10"
-        },
-        {
             "source": "SEL102C10",
             "target": "INX103C10",
             "value": 1,
@@ -3602,17 +3239,6 @@
         {
             "source": "PRT105C10",
             "target": "LIR106C10",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "C10"
-        },
-        {
-            "source": "DIF105C10",
-            "target": "SEL103C10",
             "value": 1,
             "lineStyle": {
                 "normal": {
